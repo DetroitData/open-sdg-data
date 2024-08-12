@@ -12,11 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Docotor of Medicine",
+                "Doctor of Osteopathy",
+                "Certified Nurse Midwife",
+                "Other Midwife ",
+                "Other or Unknown",
+                "Doctor of Medicine",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

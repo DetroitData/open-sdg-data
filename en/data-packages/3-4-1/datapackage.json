@@ -12,12 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Cause of Death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Diabetes",
+                "Cancer",
+                "Heart Diesease",
+                "Chronic Respiratory Disease",
+                ""
+              ]
+            },
+            "title": "Cause of Death"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Deaths",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

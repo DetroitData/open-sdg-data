@@ -1,1 +1,33 @@
-Year,Value
+Year,Cause of Death,Units,Value
+2015,Diabetes,Number of Deaths,228
+2015,Cancer,Number of Deaths,"1,351"
+2015,Heart Diesease,Number of Deaths,"2,093"
+2015,Chronic Respiratory Disease,Number of Deaths,272
+2016,Diabetes,Number of Deaths,195
+2016,Cancer,Number of Deaths,"1,383"
+2016,Heart Diesease,Number of Deaths,"2,300"
+2016,Chronic Respiratory Disease,Number of Deaths,236
+2017,Diabetes,Number of Deaths,181
+2017,Cancer,Number of Deaths,"1,311"
+2017,Heart Diesease,Number of Deaths,"2,175"
+2017,Chronic Respiratory Disease,Number of Deaths,238
+2018,Diabetes,Number of Deaths,199
+2018,Cancer,Number of Deaths,"1,252"
+2018,Heart Diesease,Number of Deaths,"2,173"
+2018,Chronic Respiratory Disease,Number of Deaths,228
+2019,Diabetes,Number of Deaths,196
+2019,Cancer,Number of Deaths,"1,313"
+2019,Heart Diesease,Number of Deaths,"2,121"
+2019,Chronic Respiratory Disease,Number of Deaths,226
+2020,Diabetes,Number of Deaths,280
+2020,Cancer,Number of Deaths,"1,279"
+2020,Heart Diesease,Number of Deaths,"2,509"
+2020,Chronic Respiratory Disease,Number of Deaths,224
+2021,Diabetes,Number of Deaths,249
+2021,Cancer,Number of Deaths,"1,216"
+2021,Heart Diesease,Number of Deaths,"2,332"
+2021,Chronic Respiratory Disease,Number of Deaths,219
+2022,Diabetes,Number of Deaths,239
+2022,Cancer,Number of Deaths,"1,158"
+2022,Heart Diesease,Number of Deaths,"2,181"
+2022,Chronic Respiratory Disease,Number of Deaths,210

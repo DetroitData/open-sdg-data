@@ -12,12 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Mother Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 19",
+                ""
+              ]
+            },
+            "title": "Mother Age Group"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
