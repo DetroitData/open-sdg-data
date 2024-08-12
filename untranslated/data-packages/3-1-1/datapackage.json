@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Race/ Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Black",
+                "White",
+                "American Indian/ Alaska Native",
+                "All Other Races",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio per 100,000 Live Births",
+                "Death per 100,000 live Births",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
