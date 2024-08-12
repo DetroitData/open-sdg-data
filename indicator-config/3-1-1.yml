@@ -24,11 +24,11 @@ graph_titles:
 graph_type: Bar
 indicator_name: global_indicators.3-1-1-title
 indicator_number: '3.1.1'
-national_geographical_coverage: ''
+national_geographical_coverage: 'Detroit'
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
