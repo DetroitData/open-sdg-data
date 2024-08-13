@@ -1,21 +1,18 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 1: Ensure healthy lives and promote well-being for all at all ages
 SDG_TARGET: >-
-  Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
-  currently measured as people living on less than $1.25 a day
+  Target 1.1: By 2030, reduse the global maternal mortality ratio to less than 70 per 100,000 live births
 SDG_INDICATOR: >-
-  Indicator 1.1.1: Proportion of the population living below the
-  international poverty line by sex, age, employment status and geographic
-  location (urban/rural)
-SDG_SERIES_DESCR: >-
+  Indicator 3.1.1: Maternal mortality ratio 
+SDG_SERIES_DESCR: >- SH_STA_MORT - Maternal mortality ratio [3.1.1]
 
-META_LAST_UPDATE: >-
+META_LAST_UPDATE: >- 2024-07-24
 
-SDG_RELATED_INDICATORS: >-
+SDG_RELATED_INDICATORS: >- 3.1.2 Proportion of births attended by a skilled heather personnel
 
-SDG_CUSTODIAN_AGENCIES: >-
+SDG_CUSTODIAN_AGENCIES: >- World Health Organization (WHO), Department of Sexual and Reproductive Health and Research
 
-CONTACT_ORGANISATION: >-
+CONTACT_ORGANISATION: >- World Health Organization (WHO), Department of Sexual and Reproductive Health
 
 CONTACT_NAME: >-
 
@@ -32,39 +29,31 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
   ## Definition:
   
-  The proportion of the employed population below the international poverty
-  line of US$1.90 per day, also referred to as the working poverty rate, is
-  defined as the share of employed persons living in households with per-capita
-  consumption or income that is below the international poverty line of
-  US$1.90.
+  The maternal mortality ratio (MMR) is defined as the number of maternal deaths 
+  during a given time period per 100,000 live births during the same period. It depicts 
+  the risk of meternal death relative to the number of live births and essentially 
+  captures the risk of death in a single pregnanct (proxied by a single live birth.
   
   ## Concepts:
   
-  **Employment:** All persons of working age who,
-  during a short reference period (one week), were engaged in any activity to
-  produce goods or provide services for pay or profit.
-  
-  
-  **Poverty Line:** Threshold below which individuals
-  in the reference population are considered poor and above which they are
-  considered non-poor. The threshold is generally defined as the per-capita
-  monetary requirements an individual needs to afford the purchase of a basic
-  bundle of goods and services. For the purpose of this indicator, an absolute
-  international poverty line of US$1.90 per day is used.
-  
-  
-  **Household in poverty:** Households are defined as
-  poor if their income or consumption expenditure is below the poverty line
-  taking into account the number of household members and composition (e.g.,
-  number of adults and children).
-  
-  
-  **Working poor:** Employed persons living in
-  households that are classified as poor, that is, that have income or
-  consumption levels below the poverty line used for measurement.
-UNIT_MEASURE: >-
+  **Maternal death:** The death of a woman while pregnant or within 42 days of termination of pregnancy,
+  irrespective of the duration and site of pregnancy, 
+  from any cause related to or aggravated by the pregnancy or its management (from direct or indirect obstetric death), 
+  but not from unintentional or incidental death. 
 
-CLASS_SYSTEM: >-
+  **A death occuring during pregnancy, childbirth and puerperium (also know as pregnancy-related death):** 
+  The death of a woman while pregnant or withing 42 days of termination of pregnanct, irrespective of the cause of 
+  death.
+  
+  
+UNIT_MEASURE: >- Maternal deaths per 100,000 live births
+
+CLASS_SYSTEM: >- Maternal deaths are classified according to the International statistical classification of diseases and related health problems (ICD) definition. 
+**The specific codes used under the ICD-10 (the 10th revision of the ICD) to define a maternal death are:** O00-O96; O98, O99 and A34. 
+
+ICD-11 (the 11th revision of the ICD) was adopted by the World Health Assemby in May 2019 and comes into effect on 1st January 2022. Further information is avalible at www.who.int/classifications/icd/en/  
+The coding rules related to meternal mortality are being edited to fully match the new structure of the ICD 11, 
+at https://icd.who.int . Forthcoming releases from 2022 onward will transition to use the ICD 11 coding
 
 SOURCE_TYPE: >-
 
