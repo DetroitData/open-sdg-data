@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Under 5 mortality rate
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -7,24 +7,30 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values: 
+  -field: Unit
+  -Value: Total
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
-expected_disaggregations: []
+expected_disaggregations: 
+  -Unit
 footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: global_indicators.3-2-1-title
-graph_titles: []
-graph_type: line
+graph_title: global_indicators.3-2-1-Under 5 mortality rate
+graph_titles:
+  -serise: Unit
+  -unit: Total
+  -title: Under 5 mortality rate
+graph_type: bar
 indicator_available: ''
-indicator_name: global_indicators.3-2-1-title
+indicator_name: global_indicators.3-2-1-Under 5 mortality rate
 indicator_number: 3.2.1
 indicator_tabs:
   override: false
@@ -32,17 +38,17 @@ indicator_tabs:
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: ''
+national_geographical_coverage: 'Detroit'
 page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
-progress_status: not_available
+progress_status: ontrack 
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false
