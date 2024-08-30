@@ -7,13 +7,24 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values: 
+  -field: Unit
+  -value: Doctor of Medicine
+  -field: unit
+  -value: Doctor of Osteopathy
+  -field: unit
+  -value: Certified Nurse Midwife
+  -field: unit
+  -value: Other Midwife
+  -field: unit
+  -value: Other or Unknown
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
-expected_disaggregations: []
+expected_disaggregations: 
+  -Unit
 footer_fields: []
 graph_annotations: []
 graph_limits: []
@@ -21,7 +32,10 @@ graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
 graph_title: global_indicators.3-1-2-Proportion of Births attended by skilled personnel
-graph_titles: []
+graph_titles: 
+  -serise: Proportion of Births attended by skilled personnel
+  -unit: Total number
+  -title: Proportion of Birthsa attended by skilled personnel
 graph_type: bar
 indicator_available: ''
 indicator_name: global_indicators.3-1-2-Proportion of Births attened by skilled personnel
