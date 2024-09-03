@@ -9,6 +9,8 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: 
   -field: Unit
+  -value: Total
+  -field: Unit
   -value: Doctor of Medicine
   -field: Unit
   -value: Doctor of Osteopathy
@@ -31,14 +33,14 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: global_indicators.3-1-2-Proportion of Births attended by skilled personnel
+graph_title: 3-1-2-Proportion of Births attended by skilled personnel
 graph_titles: 
   -serise: Proportion of Births attended by skilled personnel
   -unit: Total number
   -title: Proportion of Birthsa attended by skilled personnel
 graph_type: bar
 indicator_available: ''
-indicator_name: global_indicators.3-1-2-Proportion of Births attened by skilled personnel
+indicator_name: 3-1-2-Proportion of Births attened by skilled personnel
 indicator_number: 3.1.2
 indicator_tabs:
   override: false
