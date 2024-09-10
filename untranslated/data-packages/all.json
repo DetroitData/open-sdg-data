@@ -551,7 +551,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Death per 100,000 Live Births",
                 "Death per 100,000 live Births",
                 ""
               ]
