@@ -10,11 +10,11 @@ data_show_map: false
 data_start_values:
   -field: Race/ Ethnicity
   -value: Black
-  -field: Race
+  -field: Race/ Ethnicity
   -value: White
-  -field: Race
+  -field: Race/ Ethnicity
   -value: American Indian/ Alaskan Native
-  -field: Race
+  -field: Race/ Ethnicity
   -value: All Other Races
 embedded_feature_footer: ''
 embedded_feature_html: ''
