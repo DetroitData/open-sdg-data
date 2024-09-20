@@ -10,14 +10,19 @@ data_show_map: false
 data_start_values:
   - field: Race/ Ethnicity
     value: Black
-    '-field': Race/ Ethnicity
+    field: Race/ Ethnicity
+    value: White
+    field: Race/ Ethnicity
+    value: American Indian/ Alaska Native
+    field: Race/ Ethnicity
+    value: All Other Races
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations:
-  - '-Race'
+  - '-Race/ Ethnicity'
 footer_fields: []
 graph_annotations: []
 graph_limits: []
