@@ -1,4 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
+By Gender,3,1
+by Gender,1,1
+By Race/ Ethnicity,4,1
 Certified Nurse Midwife,1,1
 "Death Rate per 1,000",1,1
 Docotor of Medicine,1,1
@@ -6,4 +9,4 @@ Doctor of Medicine,1,1
 Doctor of Osteopathy,1,1
 Other Midwife ,1,1
 Other or Unknown,1,1
-Total,1,1
+Total,2,2
