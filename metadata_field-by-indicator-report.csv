@@ -188,7 +188,7 @@ World Bank (WB)",,,,,line
 #3-3-2,complete,World Health Organization (WHO),,,Detroit,"Tuberculosis incidence per 100,000 population",bar
 #3-3-3,complete,Global Malaria Programme at World Health Organization (WHO),,,Detroit,"Malaria incidence per 1,000 population",bar
 #3-3-4,complete,World Health Organization ,,,Detroit,"Hepatitis B incidence per 100,000 population",bar
-#3-3-5,notstarted,World Health Organization (WHO),,,,,line
+#3-3-5,complete,World Health Organization (WHO),,,Detroit,Number of people requiring interventions against neglected tropical diseases,bar
 #3-4-1,notstarted,World Health Organization (WHO) ,,,,,line
 #3-4-2,notstarted,World Health Organization (WHO) ,,,,,line
 #3-5-1,notstarted,"World Health Organization (WHO) 
