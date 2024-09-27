@@ -30,7 +30,7 @@ CONTACT_FUNCT: ''
 CONTACT_PHONE: ''
 CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
-IND_DEF_CON_CLASS: 'Definition, concepts, and classifications'
+IND_DEF_CON_CLASS: 
 STAT_CONC_DEF: >-
   <p>Definition:</p>
 
