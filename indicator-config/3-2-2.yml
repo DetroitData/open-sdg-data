@@ -19,13 +19,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-2-2-Neonatal Mortality Rate
+graph_title: 3-2-2-Neonatal Mortality Rate
 graph_titles: 
   -series: Neonatal Mortality Rate
   -unit: Deaths Rate per 1,000 
   -title: Neonatal Mortality Rate
 graph_type: bar
-indicator_name: global_indicators.3-2-2-Neonatal Mortality Rate
+indicator_name: 3-2-2-Neonatal Mortality Rate
 indicator_number: '3.2.2'
 national_geographical_coverage: 'Detroit'
 page_content: ''
