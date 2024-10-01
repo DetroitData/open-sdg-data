@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: >-
-  Number of new HIV infections per 1,000 uninfected population, by sex, age and
-  key populations
+  Number of new HIV infections per 1,000 uninfected population, by sex,   age
+  and key populations
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -30,32 +30,19 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
-footer_fields:
-  - series: ''
-    unit: ''
-    label: ''
-    value: ''
+footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
 graph_title: >-
-  3-3-1-Number of new HIV infections per 1,000 uninfected population, by sex,
+  3-3-1--Number of new HIV infections per 1,000 uninfected population, by sex,  
   age and key populations
-graph_titles:
-  - series: >-
-      Number of new HIV infections per 1,000 uninfected populations, by sex,
-      age, and key populations
-    unit: Gender
-    title: >-
-      Number of new HIV infections per 1,000 uninfected populations, by sex,
-      age, and key populations
-graph_type: bar
+graph_titles: []
+graph_type: line
 indicator_available: ''
-indicator_name: >-
-  3-3-1-Number of new HIV infections per 1,000 uninfected population, by sex,
-  age and key populations
+indicator_name: global_indicators.3-3-1-title
 indicator_number: 3.3.1
 indicator_tabs:
   override: false
@@ -78,11 +65,11 @@ sort: ''
 sources:
   - organisation: MDHHS
     periodicity: ''
-    earliest_available: ''
-    geographical_coverage: Michigan
+    earliest_available: '1980'
+    geographical_coverage: Detroit
     url: >-
       https://www.michigan.gov/mdhhs/keep-mi-healthy/chronicdiseases/hivsti/data-and-statistics/HIV-STI-Statewide-Annual-Analyses
-    url_text: 'HIV Statewide Analysis '
+    url_text: MDHHA HIV and STI Data and Statistics
     release_date: '2023'
     next_release: ''
     statistical_classification: ''
