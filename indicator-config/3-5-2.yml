@@ -1,5 +1,7 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: >-
+  Alcohol per capita consumption (aged 15 years and older) within a calendar
+  year in litres of pure alcohol
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -7,26 +9,69 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values:
+  - field: Value
+    value: '17.2'
+  - field: Value
+    value: '17.2'
+  - field: Value
+    value: '17.7'
+  - field: Value
+    value: '17.1'
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-5-2-title
+graph_target_lines: []
+graph_title: >-
+  3-5-2-Alcohol per capita consumption (aged 15 years and older) within a
+  calendar year in litres of pure alcohol
 graph_titles: []
-graph_type: line
-indicator_name: global_indicators.3-5-2-title
-indicator_number: '3.5.2'
+graph_type: bar
+indicator_available: ''
+indicator_name: >-
+  3-5-Alcohol per capita consumption (aged 15 years and older) within a calendar
+  year in litres of pure alcohol
+indicator_number: 3.5.2
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
-reporting_status: notstarted
+progress_status: challenges_remain
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+reporting_status: complete
 sort: ''
+sources:
+  - organisation: MDHHS
+    periodicity: ''
+    earliest_available: ''
+    geographical_coverage: Detroit
+    url: >-
+      https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/epidemiology/chronicepi/bfrs/reglocal/michigan-brfs-regional-and-local-health-department-tables
+    url_text: ''
+    release_date: '2023'
+    next_release: ''
+    statistical_classification: ''
+    contact: ''
+    other_info: ''
+    logo: ''
 standalone: false
 tags: []
+x_axis_label: ''
