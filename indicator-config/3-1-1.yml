@@ -4,17 +4,18 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
-data_notice_heading: 3.1.1 Maternal Mortality Ratio
+data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Race/ Ethnicity
     value: Black
-    field: Race/ Ethnicity
+    '-field': Race
+  - field: Race/ Ethnicity
     value: White
-    field: Race/ Ethnicity
+  - field: Race/ Ethnicity
     value: American Indian/ Alaska Native
-    field: Race/ Ethnicity
+  - field: Race/ Ethnicity
     value: All Other Races
 embedded_feature_footer: ''
 embedded_feature_html: ''
@@ -22,24 +23,24 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations:
-  - '-Race/ Ethnicity'
+  - '-Race'
 footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3-1-1-Maternal Mortality Ratio
+graph_title: global_indicators.3-1-1-Maternal Mortality Ration
 graph_titles:
-  - series: Unit
+  - series: Units
     unit: 'Death per 100,000 live Births'
-    title: Maternal Mortality Rate
+    title: Maternal Death Ratio
     '-series': Maternal Death Ratio
     '-unit': Percent
     '-title': Maternal Mortality Ratio
-graph_type: bar
+graph_type: line
 indicator_available: ''
-indicator_name: 3-1-1 Maternal Mortality Ratio
+indicator_name: global_indicators.3-1-1-title
 indicator_number: 3.1.1
 indicator_tabs:
   override: false
@@ -52,14 +53,27 @@ page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
-progress_status: approaching_target
+progress_status: not_available
 proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-sources: []
+sources:
+  - organisation: MDHHS
+    periodicity: ''
+    earliest_available: ''
+    geographical_coverage: Detroit
+    url: >-
+      https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/MCH-Epidemiology/MMMS_2015-2019-Report_final.pdf?rev=73c09aa823314d67ba532ddc2927f504&hash=D5A7B808B324EB7AA9FCE5015546B7D2
+    url_text: 2015-2019 Report
+    release_date: ''
+    next_release: ''
+    statistical_classification: ''
+    contact: ''
+    other_info: ''
+    logo: ''
 standalone: false
 tags: []
 x_axis_label: ''
