@@ -147,7 +147,7 @@
               "enum": [
                 "Number With Complete Vaccination Record",
                 "Number With Incomplete Vaccination Record",
-                "Number Who Are Provisional/ In Wating Period",
+                "Number Who Are Provisional/ In Waiting Period",
                 ""
               ]
             },
@@ -158,7 +158,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kindergarden Immunization Status",
+                "Kindergarten Immunization Status",
                 "Seventh Grade Immunization Status",
                 ""
               ]
