@@ -299,6 +299,44 @@
       "title": "Tuberculosis incidence per 100,000 population"
     },
     {
+      "path": "2-1-3/data.csv",
+      "name": "2-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Mutual Aid Programs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emergency Food Sites",
+                "Community Fridge",
+                "Sharing Table/Free Table/Community Closet",
+                "Community Food Hub",
+                ""
+              ]
+            },
+            "title": "Mutual Aid Programs"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-1-3"
+    },
+    {
       "path": "3-7-1/data.csv",
       "name": "3-7-1",
       "profile": "tabular-data-resource",
@@ -762,6 +800,58 @@
         ]
       },
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+    },
+    {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Birthweight",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low Birthweight",
+                "Very Low Birthweight",
+                ""
+              ]
+            },
+            "title": "Birthweight"
+          },
+          {
+            "name": "Race ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Black",
+                "White",
+                "Asian & Pacific Islander ",
+                "Mid Easterner",
+                "Hispanic",
+                "All Other Races",
+                ""
+              ]
+            },
+            "title": "Race "
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "12-4-1/data.csv",
@@ -5538,30 +5628,6 @@
         ]
       },
       "title": "Degree of integrated water resources management"
-    },
-    {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "8-5-1/data.csv",

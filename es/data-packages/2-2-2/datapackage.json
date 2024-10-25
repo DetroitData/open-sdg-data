@@ -12,12 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Birthweight",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low Birthweight",
+                "Very Low Birthweight",
+                ""
+              ]
+            },
+            "title": "Birthweight"
+          },
+          {
+            "name": "Race ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Black",
+                "White",
+                "Asian & Pacific Islander ",
+                "Mid Easterner",
+                "Hispanic",
+                "All Other Races",
+                ""
+              ]
+            },
+            "title": "Race "
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
