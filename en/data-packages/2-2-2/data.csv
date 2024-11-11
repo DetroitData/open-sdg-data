@@ -1,1 +1,113 @@
-Year,Value
+Year,Birthweight,Race,Value
+2015,Low Birthweight,,1410
+2015,Very Low Birthweight,,316
+2015,Low Birthweight,Black,1243
+2015,Very Low Birthweight,Black,288
+2015,Low Birthweight,White,88
+2015,Very Low Birthweight,White,13
+2015,Low Birthweight,Asian & Pacific Islander,10
+2015,Very Low Birthweight,Asian & Pacific Islander,2
+2015,Low Birthweight,Mid Easterner,14
+2015,Very Low Birthweight,Mid Easterner,2
+2015,Low Birthweight,Hispanic,72
+2015,Very Low Birthweight,Hispanic,12
+2015,Low Birthweight,All Other Races,67
+2015,Very Low Birthweight,All Other Races,11
+2016,Low Birthweight,,1365
+2016,Very Low Birthweight,,291
+2016,Low Birthweight,Black,1206
+2016,Very Low Birthweight,Black,263
+2016,Low Birthweight,White,86
+2016,Very Low Birthweight,White,21
+2016,Low Birthweight,Asian & Pacific Islander,18
+2016,Very Low Birthweight,Asian & Pacific Islander,2
+2016,Low Birthweight,Mid Easterner,22
+2016,Very Low Birthweight,Mid Easterner,4
+2016,Low Birthweight,Hispanic,72
+2016,Very Low Birthweight,Hispanic,10
+2016,Low Birthweight,All Other Races,54
+2016,Very Low Birthweight,All Other Races,5
+2017,Low Birthweight,,1356
+2017,Very Low Birthweight,,290
+2017,Low Birthweight,Black,1203
+2017,Very Low Birthweight,Black,265
+2017,Low Birthweight,White,71
+2017,Very Low Birthweight,White,11
+2017,Low Birthweight,Asian & Pacific Islander,24
+2017,Very Low Birthweight,Asian & Pacific Islander,1
+2017,Low Birthweight,Mid Easterner,25
+2017,Very Low Birthweight,Mid Easterner,1
+2017,Low Birthweight,Hispanic,68
+2017,Very Low Birthweight,Hispanic,14
+2017,Low Birthweight,All Other Races,55
+2017,Very Low Birthweight,All Other Races,13
+2018,Low Birthweight,,1386
+2018,Very Low Birthweight,,272
+2018,Low Birthweight,Black,1226
+2018,Very Low Birthweight,Black,254
+2018,Low Birthweight,White,100
+2018,Very Low Birthweight,White,11
+2018,Low Birthweight,Asian & Pacific Islander,18
+2018,Very Low Birthweight,Asian & Pacific Islander,1
+2018,Low Birthweight,Mid Easterner,32
+2018,Very Low Birthweight,Mid Easterner,5
+2018,Low Birthweight,Hispanic,64
+2018,Very Low Birthweight,Hispanic,5
+2018,Low Birthweight,All Other Races,39
+2018,Very Low Birthweight,All Other Races,5
+2019,Low Birthweight,,1411
+2019,Very Low Birthweight,,287
+2019,Low Birthweight,Black,1219
+2019,Very Low Birthweight,Black,263
+2019,Low Birthweight,White,11
+2019,Very Low Birthweight,White,16
+2019,Low Birthweight,Asian & Pacific Islander,28
+2019,Very Low Birthweight,Asian & Pacific Islander,1
+2019,Low Birthweight,Mid Easterner,32
+2019,Very Low Birthweight,Mid Easterner,2
+2019,Low Birthweight,Hispanic,78
+2019,Very Low Birthweight,Hispanic,16
+2019,Low Birthweight,All Other Races,52
+2019,Very Low Birthweight,All Other Races,7
+2020,Low Birthweight,,1327
+2020,Very Low Birthweight,,254
+2020,Low Birthweight,Black,1161
+2020,Very Low Birthweight,Black,229
+2020,Low Birthweight,White,86
+2020,Very Low Birthweight,White,12
+2020,Low Birthweight,Asian & Pacific Islander,29
+2020,Very Low Birthweight,Asian & Pacific Islander,2
+2020,Low Birthweight,Mid Easterner,24
+2020,Very Low Birthweight,Mid Easterner,2
+2020,Low Birthweight,Hispanic,62
+2020,Very Low Birthweight,Hispanic,13
+2020,Low Birthweight,All Other Races,49
+2020,Very Low Birthweight,All Other Races,10
+2021,Low Birthweight,,1335
+2021,Very Low Birthweight,,270
+2021,Low Birthweight,Black,1131
+2021,Very Low Birthweight,Black,233
+2021,Low Birthweight,White,108
+2021,Very Low Birthweight,White,16
+2021,Low Birthweight,Asian & Pacific Islander,14
+2021,Very Low Birthweight,Asian & Pacific Islander,4
+2021,Low Birthweight,Mid Easterner,18
+2021,Very Low Birthweight,Mid Easterner,2
+2021,Low Birthweight,Hispanic,72
+2021,Very Low Birthweight,Hispanic,15
+2021,Low Birthweight,All Other Races,77
+2021,Very Low Birthweight,All Other Races,13
+2022,Low Birthweight,,1202
+2022,Very Low Birthweight,,237
+2022,Low Birthweight,Black,1027
+2022,Very Low Birthweight,Black,215
+2022,Low Birthweight,White,118
+2022,Very Low Birthweight,White,16
+2022,Low Birthweight,Asian & Pacific Islander,24
+2022,Very Low Birthweight,Asian & Pacific Islander,1
+2022,Low Birthweight,Mid Easterner,29
+2022,Very Low Birthweight,Mid Easterner,2
+2022,Low Birthweight,Hispanic,59
+2022,Very Low Birthweight,Hispanic,9
+2022,Low Birthweight,All Other Races,26
+2022,Very Low Birthweight,All Other Races,4
