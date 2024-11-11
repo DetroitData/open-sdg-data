@@ -26,13 +26,13 @@
             }
           },
           {
-            "name": "Race ",
+            "name": "Race",
             "type": "string",
             "constraints": {
               "enum": [
                 "Black",
                 "White",
-                "Asian & Pacific Islander ",
+                "Asian & Pacific Islander",
                 "Mid Easterner",
                 "Hispanic",
                 "All Other Races",

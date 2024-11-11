@@ -1,12 +1,12 @@
-Year,Birthweight,Race ,Value
+Year,Birthweight,Race,Value
 2015,Low Birthweight,,1410
 2015,Very Low Birthweight,,316
 2015,Low Birthweight,Black,1243
 2015,Very Low Birthweight,Black,288
 2015,Low Birthweight,White,88
 2015,Very Low Birthweight,White,13
-2015,Low Birthweight,Asian & Pacific Islander ,10
-2015,Very Low Birthweight,Asian & Pacific Islander ,2
+2015,Low Birthweight,Asian & Pacific Islander,10
+2015,Very Low Birthweight,Asian & Pacific Islander,2
 2015,Low Birthweight,Mid Easterner,14
 2015,Very Low Birthweight,Mid Easterner,2
 2015,Low Birthweight,Hispanic,72
@@ -19,8 +19,8 @@ Year,Birthweight,Race ,Value
 2016,Very Low Birthweight,Black,263
 2016,Low Birthweight,White,86
 2016,Very Low Birthweight,White,21
-2016,Low Birthweight,Asian & Pacific Islander ,18
-2016,Very Low Birthweight,Asian & Pacific Islander ,2
+2016,Low Birthweight,Asian & Pacific Islander,18
+2016,Very Low Birthweight,Asian & Pacific Islander,2
 2016,Low Birthweight,Mid Easterner,22
 2016,Very Low Birthweight,Mid Easterner,4
 2016,Low Birthweight,Hispanic,72
@@ -33,8 +33,8 @@ Year,Birthweight,Race ,Value
 2017,Very Low Birthweight,Black,265
 2017,Low Birthweight,White,71
 2017,Very Low Birthweight,White,11
-2017,Low Birthweight,Asian & Pacific Islander ,24
-2017,Very Low Birthweight,Asian & Pacific Islander ,1
+2017,Low Birthweight,Asian & Pacific Islander,24
+2017,Very Low Birthweight,Asian & Pacific Islander,1
 2017,Low Birthweight,Mid Easterner,25
 2017,Very Low Birthweight,Mid Easterner,1
 2017,Low Birthweight,Hispanic,68
@@ -47,8 +47,8 @@ Year,Birthweight,Race ,Value
 2018,Very Low Birthweight,Black,254
 2018,Low Birthweight,White,100
 2018,Very Low Birthweight,White,11
-2018,Low Birthweight,Asian & Pacific Islander ,18
-2018,Very Low Birthweight,Asian & Pacific Islander ,1
+2018,Low Birthweight,Asian & Pacific Islander,18
+2018,Very Low Birthweight,Asian & Pacific Islander,1
 2018,Low Birthweight,Mid Easterner,32
 2018,Very Low Birthweight,Mid Easterner,5
 2018,Low Birthweight,Hispanic,64
@@ -61,8 +61,8 @@ Year,Birthweight,Race ,Value
 2019,Very Low Birthweight,Black,263
 2019,Low Birthweight,White,11
 2019,Very Low Birthweight,White,16
-2019,Low Birthweight,Asian & Pacific Islander ,28
-2019,Very Low Birthweight,Asian & Pacific Islander ,1
+2019,Low Birthweight,Asian & Pacific Islander,28
+2019,Very Low Birthweight,Asian & Pacific Islander,1
 2019,Low Birthweight,Mid Easterner,32
 2019,Very Low Birthweight,Mid Easterner,2
 2019,Low Birthweight,Hispanic,78
@@ -75,8 +75,8 @@ Year,Birthweight,Race ,Value
 2020,Very Low Birthweight,Black,229
 2020,Low Birthweight,White,86
 2020,Very Low Birthweight,White,12
-2020,Low Birthweight,Asian & Pacific Islander ,29
-2020,Very Low Birthweight,Asian & Pacific Islander ,2
+2020,Low Birthweight,Asian & Pacific Islander,29
+2020,Very Low Birthweight,Asian & Pacific Islander,2
 2020,Low Birthweight,Mid Easterner,24
 2020,Very Low Birthweight,Mid Easterner,2
 2020,Low Birthweight,Hispanic,62
@@ -89,8 +89,8 @@ Year,Birthweight,Race ,Value
 2021,Very Low Birthweight,Black,233
 2021,Low Birthweight,White,108
 2021,Very Low Birthweight,White,16
-2021,Low Birthweight,Asian & Pacific Islander ,14
-2021,Very Low Birthweight,Asian & Pacific Islander ,4
+2021,Low Birthweight,Asian & Pacific Islander,14
+2021,Very Low Birthweight,Asian & Pacific Islander,4
 2021,Low Birthweight,Mid Easterner,18
 2021,Very Low Birthweight,Mid Easterner,2
 2021,Low Birthweight,Hispanic,72
@@ -103,8 +103,8 @@ Year,Birthweight,Race ,Value
 2022,Very Low Birthweight,Black,215
 2022,Low Birthweight,White,118
 2022,Very Low Birthweight,White,16
-2022,Low Birthweight,Asian & Pacific Islander ,24
-2022,Very Low Birthweight,Asian & Pacific Islander ,1
+2022,Low Birthweight,Asian & Pacific Islander,24
+2022,Very Low Birthweight,Asian & Pacific Islander,1
 2022,Low Birthweight,Mid Easterner,29
 2022,Very Low Birthweight,Mid Easterner,2
 2022,Low Birthweight,Hispanic,59

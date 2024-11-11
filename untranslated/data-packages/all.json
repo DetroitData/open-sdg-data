@@ -100,7 +100,7 @@
                 "Docotor of Medicine",
                 "Doctor of Osteopathy",
                 "Certified Nurse Midwife",
-                "Other Midwife ",
+                "Other Midwife",
                 "Other or Unknown",
                 "Doctor of Medicine",
                 ""
@@ -333,14 +333,14 @@
                 "Male Condoms",
                 "Other Hormonal Methods",
                 "Vaginal Ring",
-                "Contraceptive Patch ",
-                "Oral Contraceptive ",
-                "3-Month Hormonal Injection ",
+                "Contraceptive Patch",
+                "Oral Contraceptive",
+                "3-Month Hormonal Injection",
                 "IUD",
                 "Permanent",
                 "Long Acting Reversable Contraceptive",
                 "Fertility Awareness and Absteinence",
-                "Female Steralization ",
+                "Female Steralization",
                 "Other/ Uknown Female Method",
                 ""
               ]
@@ -762,13 +762,13 @@
             }
           },
           {
-            "name": "Race ",
+            "name": "Race",
             "type": "string",
             "constraints": {
               "enum": [
                 "Black",
                 "White",
-                "Asian & Pacific Islander ",
+                "Asian & Pacific Islander",
                 "Mid Easterner",
                 "Hispanic",
                 "All Other Races",
