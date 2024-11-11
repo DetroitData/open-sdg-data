@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Use of Birth Control",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No Method",
+                "Pregnant or Seeking Pregnancy",
+                "Male Condoms",
+                "Other Hormonal Methods",
+                "Vaginal Ring",
+                "Contraceptive Patch ",
+                "Oral Contraceptive ",
+                "3-Month Hormonal Injection ",
+                "IUD",
+                "Permanent",
+                "Long Acting Reversable Contraceptive",
+                "Fertility Awareness and Absteinence",
+                "Female Steralization ",
+                "Other/ Uknown Female Method",
+                ""
+              ]
+            },
+            "title": "Use of Birth Control"
           },
           {
             "name": "Value",
