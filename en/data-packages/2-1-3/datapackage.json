@@ -12,26 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "Mutual Aid Programs",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Emergency Food Sites",
-                "Community Fridge",
-                "Sharing Table/Free Table/Community Closet",
-                "Community Food Hub",
-                ""
-              ]
-            },
-            "title": "Mutual Aid Programs"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
