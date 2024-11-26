@@ -12,12 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "American Indian or Alaska Native",
+                "Asian",
+                "African American",
+                "Hispanic/Latino",
+                "Native Hawaiian or Other Pacific Islander",
+                "White",
+                "Two or More Races",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Level of School",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "High School",
+                "Elementary School",
+                "Middle School",
+                ""
+              ]
+            },
+            "title": "Level of School"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
