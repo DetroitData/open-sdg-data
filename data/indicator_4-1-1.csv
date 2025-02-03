@@ -1,0 +1,187 @@
+Year,Grade Level,Gender,Poverty Level,Test,Units,Value
+2014,,,,M-STEP,English Language Arts,35.5
+2014,3rd,,,M-STEP,English Language Arts,34
+2014,4th,,,M-STEP,English Language Arts,27.1
+2014,5th,,,M-STEP,English Language Arts,30.6
+2014,6th,,,M-STEP,English Language Arts,37.8
+2014,7th,,,M-STEP,English Language Arts,40.1
+2014,8th,,,M-STEP,English Language Arts,50.1
+2014,,,,M-STEP,Math,26.4
+2014,3rd,,,M-STEP,Math,37.1
+2014,4th,,,M-STEP,Math,36.1
+2014,5th,,,M-STEP,Math,20.9
+2014,6th,,,M-STEP,Math,24.7
+2014,7th,,,M-STEP,Math,27
+2014,8th,,,M-STEP,Math,24.7
+2015,,,,M-STEP,English Language Arts,32.2
+2015,3rd,,,M-STEP,English Language Arts,27.5
+2015,4th,,,M-STEP,English Language Arts,26.5
+2015,5th,,,M-STEP,English Language Arts,34
+2015,6th,,,M-STEP,English Language Arts,28.4
+2015,7th,,,M-STEP,English Language Arts,35.6
+2015,8th,,,M-STEP,English Language Arts,44
+2015,,,,M-STEP,Math,26.4
+2015,3rd,,,M-STEP,Math,31.6
+2015,4th,,,M-STEP,Math,37
+2015,5th,,,M-STEP,Math,16.8
+2015,6th,,,M-STEP,Math,21.4
+2015,7th,,,M-STEP,Math,23.9
+2015,8th,,,M-STEP,Math,25.5
+2016,,,,M-STEP,English Language Arts,32.3
+2016,3rd,,,M-STEP,English Language Arts,28.5
+2016,4th,,,M-STEP,English Language Arts,24.3
+2016,5th,,,M-STEP,English Language Arts,35.1
+2016,6th,,,M-STEP,English Language Arts,31.8
+2016,7th,,,M-STEP,English Language Arts,33
+2016,8th,,,M-STEP,English Language Arts,43.4
+2016,,,,M-STEP,Math,26.6
+2016,3rd,,,M-STEP,Math,32.8
+2016,4th,,,M-STEP,Math,34.5
+2016,5th,,,M-STEP,Math,19.2
+2016,6th,,,M-STEP,Math,24.3
+2016,7th,,,M-STEP,Math,23.3
+2016,8th,,,M-STEP,Math,24.4
+2017,,,,M-STEP,English Language Arts,30.8
+2017,3rd,,,M-STEP,English Language Arts,28.3
+2017,4th,,,M-STEP,English Language Arts,25.7
+2017,5th,,,M-STEP,English Language Arts,28.5
+2017,6th,,,M-STEP,English Language Arts,31.8
+2017,7th,,,M-STEP,English Language Arts,35.2
+2017,8th,,,M-STEP,English Language Arts,37.3
+2017,,,,M-STEP,Math,26.2
+2017,3rd,,,M-STEP,Math,31.6
+2017,4th,,,M-STEP,Math,33.9
+2017,5th,,,M-STEP,Math,18
+2017,6th,,,M-STEP,Math,24
+2017,7th,,,M-STEP,Math,24.8
+2017,8th,,,M-STEP,Math,23.7
+2018,,,,M-STEP,English Language Arts,32.7
+2018,3rd,,,M-STEP,English Language Arts,27.1
+2018,4th,,,M-STEP,English Language Arts,31.5
+2018,5th,,,M-STEP,English Language Arts,29.5
+2018,6th,,,M-STEP,English Language Arts,33
+2018,7th,,,M-STEP,English Language Arts,36.8
+2018,8th,,,M-STEP,English Language Arts,45
+2018,,,,M-STEP,Math,32.2
+2018,3rd,,,M-STEP,Math,38.3
+2018,4th,,,M-STEP,Math,37.4
+2018,5th,,,M-STEP,Math,24
+2018,6th,,,M-STEP,Math,27.1
+2018,7th,,,M-STEP,Math,28.6
+2018,8th,,,M-STEP,Math,37.4
+2020,,,,M-STEP,English Language Arts,27.2
+2020,3rd,,,M-STEP,English Language Arts,19.4
+2020,4th,,,M-STEP,English Language Arts,23.9
+2020,5th,,,M-STEP,English Language Arts,34
+2020,6th,,,M-STEP,English Language Arts,24.3
+2020,7th,,,M-STEP,English Language Arts,30
+2020,8th,,,M-STEP,English Language Arts,42.3
+2020,,,,M-STEP,Math,20.8
+2020,3rd,,,M-STEP,Math,20
+2020,4th,,,M-STEP,Math,22.1
+2020,5th,,,M-STEP,Math,9.1
+2020,6th,,,M-STEP,Math,16.7
+2020,7th,,,M-STEP,Math,16.5
+2020,8th,,,M-STEP,Math,35.4
+2021,,,,M-STEP,English Language Arts,28.9
+2021,3rd,,,M-STEP,English Language Arts,24.3
+2021,4th,,,M-STEP,English Language Arts,21.9
+2021,5th,,,M-STEP,English Language Arts,26.5
+2021,6th,,,M-STEP,English Language Arts,29.5
+2021,7th,,,M-STEP,English Language Arts,34.6
+2021,8th,,,M-STEP,English Language Arts,40.4
+2021,,,,M-STEP,Math,24.3
+2021,3rd,,,M-STEP,Math,26.5
+2021,4th,,,M-STEP,Math,22.1
+2021,5th,,,M-STEP,Math,13.9
+2021,6th,,,M-STEP,Math,19.6
+2021,7th,,,M-STEP,Math,22.3
+2021,8th,,,M-STEP,Math,44.6
+2022,,,,M-STEP,English Language Arts,29.9
+2022,3rd,,,M-STEP,English Language Arts,27.5
+2022,4th,,,M-STEP,English Language Arts,29.4
+2022,5th,,,M-STEP,English Language Arts,26.2
+2022,6th,,,M-STEP,English Language Arts,32.5
+2022,7th,,,M-STEP,English Language Arts,37.5
+2022,8th,,,M-STEP,English Language Arts,41.1
+2022,,,,M-STEP,Math,29.1
+2022,3rd,,,M-STEP,Math,32.2
+2022,4th,,,M-STEP,Math,33.6
+2022,5th,,,M-STEP,Math,13.6
+2022,6th,,,M-STEP,Math,25.9
+2022,7th,,,M-STEP,Math,23.3
+2022,8th,,,M-STEP,Math,41.9
+2023,,,,M-STEP,English Language Arts,34
+2023,3rd,,,M-STEP,English Language Arts,26.5
+2023,4th,,,M-STEP,English Language Arts,27.5
+2023,5th,,,M-STEP,English Language Arts,33.9
+2023,6th,,,M-STEP,English Language Arts,32.9
+2023,7th,,,M-STEP,English Language Arts,38.6
+2023,8th,,,M-STEP,English Language Arts,47.6
+2023,,,,M-STEP,Math,30
+2023,3rd,,,M-STEP,Math,33
+2023,4th,,,M-STEP,Math,34.4
+2023,5th,,,M-STEP,Math,25.2
+2023,6th,,,M-STEP,Math,25.7
+2023,7th,,,M-STEP,Math,28
+2023,8th,,,M-STEP,Math,33.4
+2018,8th,,,PSAT,English Language Arts,45
+2018,8th,Female,,PSAT,English Language Arts,51.6
+2018,8th,Male,,PSAT,English Language Arts,38.8
+2018,8th,,Economically Disadvantaged,PSAT,English Language Arts,43.6
+2018,8th,,Not Economically Disadvantaged,PSAT,English Language Arts,55.3
+2018,8th,,,PSAT,Math,37.4
+2018,8th,Female,,PSAT,Math,39.2
+2018,8th,Male,,PSAT,Math,35.6
+2018,8th,,Economically Disadvantaged,PSAT,Math,36.7
+2018,8th,,Not Economically Disadvantaged,PSAT,Math,42.5
+2020,8th,,,PSAT,English Language Arts,42.3
+2020,8th,Female,,PSAT,English Language Arts,49.2
+2020,8th,Male,,PSAT,English Language Arts,34.4
+2020,8th,,Economically Disadvantaged,PSAT,English Language Arts,39.1
+2020,8th,,Not Economically Disadvantaged,PSAT,English Language Arts,58.8
+2020,8th,,,PSAT,Math,35.4
+2020,8th,Female,,PSAT,Math,38.8
+2020,8th,Male,,PSAT,Math,31.6
+2020,8th,,Economically Disadvantaged,PSAT,Math,32.2
+2020,8th,,Not Economically Disadvantaged,PSAT,Math,51.8
+2021,8th,,,PSAT,English Language Arts,40.4
+2021,8th,Female,,PSAT,English Language Arts,46.6
+2021,8th,Male,,PSAT,English Language Arts,34.3
+2021,8th,,Economically Disadvantaged,PSAT,English Language Arts,38.4
+2021,8th,,Not Economically Disadvantaged,PSAT,English Language Arts,53.1
+2021,8th,,,PSAT,Math,44.9
+2021,8th,Female,,PSAT,Math,45.8
+2021,8th,Male,,PSAT,Math,44
+2021,8th,,Economically Disadvantaged,PSAT,Math,43.3
+2021,8th,,Not Economically Disadvantaged,PSAT,Math,54.7
+2022,8th,,,PSAT,English Language Arts,41.1
+2022,8th,Female,,PSAT,English Language Arts,48.1
+2022,8th,Male,,PSAT,English Language Arts,34.1
+2022,8th,,Economically Disadvantaged,PSAT,English Language Arts,40
+2022,8th,,Not Economically Disadvantaged,PSAT,English Language Arts,49
+2022,8th,,,PSAT,Math,41.9
+2022,8th,Female,,PSAT,Math,44.1
+2022,8th,Male,,PSAT,Math,39.8
+2022,8th,,Economically Disadvantaged,PSAT,Math,40.9
+2022,8th,,Not Economically Disadvantaged,PSAT,Math,49.2
+2023,8th,,,PSAT,English Language Arts,47.6
+2023,8th,Female,,PSAT,English Language Arts,50.4
+2023,8th,Male,,PSAT,English Language Arts,44.8
+2023,8th,,Economically Disadvantaged,PSAT,English Language Arts,46.7
+2023,8th,,Not Economically Disadvantaged,PSAT,English Language Arts,54
+2023,8th,,,PSAT,Math,33.4
+2023,8th,Female,,PSAT,Math,33.4
+2023,8th,Male,,PSAT,Math,33.3
+2023,8th,,Economically Disadvantaged,PSAT,Math,32.3
+2023,8th,,Not Economically Disadvantaged,PSAT,Math,41.4
+2014,11th,,,M-STEP,English Language Arts,50.6
+2014,11th,Female,,M-STEP,English Language Arts,56.3
+2014,11th,Male,,M-STEP,English Language Arts,43.3
+2014,11th,,Economically Disadvantaged,M-STEP,English Language Arts,44.7
+2014,11th,,Not Economically Disadvantaged,M-STEP,English Language Arts,60.1
+2014,11th,,,M-STEP,Math,32.5
+2014,11th,Female,,M-STEP,Math,34.3
+2014,11th,Male,,M-STEP,Math,30.3
+2014,11th,,Economically Disadvantaged,M-STEP,Math,26.4
+2014,11th,,Not Economically Disadvantaged,M-STEP,Math,42.6
