@@ -1,7 +1,130 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Age ,Sex,Employment statue ,Location ,Value
+2015,,,,Detroit,39.8
+2015,Under 5,,,Detroit,60.8
+2015,5 to 17,,,Detroit,56.3
+2015,Related children of household under 18 years old ,,,Detroit,57.3
+2015,18 to 34,,,Detroit,39.3
+2015,35 to 64,,,Detroit,35.2
+2015,60 years and over,,,Detroit,22.3
+2015,65 years and over ,,,Detroit,19.1
+2015,,Male,,Detroit,38.9
+2015,,Female,,Detroit,40.7
+2015,,,Employed,Detroit,19.9
+2015,,Male,Employed,Detroit,17.9
+2015,,Female,Employed,Detroit,21.7
+2015,,,Unemployed,Detroit,56.1
+2015,,Male,Unemployed,Detroit,55.6
+2015,,Female,Unemployed,Detroit,56.5
+2016,,,,Detroit,35.7
+2016,Under 5,,,Detroit,57.8
+2016,5 to 17,,,Detroit,47.8
+2016,Related children of household under 18 years old ,,,Detroit,50.6
+2016,18 to 34,,,Detroit,34.9
+2016,35 to 64,,,Detroit,31.4
+2016,60 years and over,,,Detroit,22.9
+2016,65 years and over ,,,Detroit,18.9
+2016,,Male,,Detroit,34.1
+2016,,Female,,Detroit,37.1
+2016,,,Employed,Detroit,16.5
+2016,,Male,Employed,Detroit,13.4
+2016,,Female,Employed,Detroit,19.3
+2016,,,Unemployed,Detroit,49.6
+2016,,Male,Unemployed,Detroit,45.2
+2016,,Female,Unemployed,Detroit,54.3
+2017,,,,Detroit,34.5
+2017,Under 5,,,Detroit,55
+2017,5 to 17,,,Detroit,5.3
+2017,Related children of household under 18 years old ,,,Detroit,48.1
+2017,18 to 34,,,Detroit,32.3
+2017,35 to 64,,,Detroit,31.5
+2017,60 years and over,,,Detroit,23.4
+2017,65 years and over ,,,Detroit,21.8
+2017,,Male,,Detroit,34.1
+2017,,Female,,Detroit,34.8
+2017,,,Employed,Detroit,14.3
+2017,,Male,Employed,Detroit,13.1
+2017,,Female,Employed,Detroit,15.4
+2017,,,Unemployed,Detroit,50.4
+2017,,Male,Unemployed,Detroit,46.1
+2017,,Female,Unemployed,Detroit,55.4
+2018,,,,Detroit,33.4
+2018,Under 5,,,Detroit,47.7
+2018,5 to 17,,,Detroit,47.1
+2018,Related children of household under 18 years old ,,,Detroit,47.1
+2018,18 to 34,,,Detroit,30.9
+2018,35 to 64,,,Detroit,30.5
+2018,60 years and over,,,Detroit,23
+2018,65 years and over ,,,Detroit,21
+2018,,Male,,Detroit,32.2
+2018,,Female,,Detroit,34.4
+2018,,,Employed,Detroit,14.9
+2018,,Male,Employed,Detroit,13.3
+2018,,Female,Employed,Detroit,16.3
+2018,,,Unemployed,Detroit,43.9
+2018,,Male,Unemployed,Detroit,41.4
+2018,,Female,Unemployed,Detroit,46.7
+2019,,,,Detroit,30.6
+2019,Under 5,,,Detroit,42.1
+2019,5 to 17,,,Detroit,43.7
+2019,Related children of household under 18 years old ,,,Detroit,43.1
+2019,18 to 34,,,Detroit,27.9
+2019,35 to 64,,,Detroit,28.5
+2019,60 years and over,,,Detroit,22.3
+2019,65 years and over ,,,Detroit,18.8
+2019,,Male,,Detroit,29.8
+2019,,Female,,Detroit,31.3
+2019,,,Employed,Detroit,14.2
+2019,,Male,Employed,Detroit,14
+2019,,Female,Employed,Detroit,14.5
+2019,,,Unemployed,Detroit,46.9
+2019,,Male,Unemployed,Detroit,47.9
+2019,,Female,Unemployed,Detroit,45.7
+2021,,,,Detroit,30.2
+2021,Under 5,,,Detroit,45.7
+2021,5 to 17,,,Detroit,42.1
+2021,Related children of household under 18 years old ,,,Detroit,42.9
+2021,18 to 34,,,Detroit,26.4
+2021,35 to 64,,,Detroit,27.9
+2021,60 years and over,,,Detroit,23.7
+2021,65 years and over ,,,Detroit,20
+2021,,Male,,Detroit,28.8
+2021,,Female,,Detroit,31.5
+2021,,,Employed,Detroit,11.4
+2021,,Male,Employed,Detroit,8.8
+2021,,Female,Employed,Detroit,13.7
+2021,,,Unemployed,Detroit,37.5
+2021,,Male,Unemployed,Detroit,37.9
+2021,,Female,Unemployed,Detroit,37.2
+2022,,,,Detroit,33.8
+2022,Under 5,,,Detroit,48.7
+2022,5 to 17,,,Detroit,49.6
+2022,Related children of household under 18 years old ,,,Detroit,49.2
+2022,18 to 34,,,Detroit,30.6
+2022,35 to 64,,,Detroit,31.5
+2022,60 years and over,,,Detroit,22.8
+2022,65 years and over ,,,Detroit,19.7
+2022,,Male,,Detroit,32
+2022,,Female,,Detroit,35.5
+2022,,,Employed,Detroit,15.8
+2022,,Male,Employed,Detroit,13.4
+2022,,Female,Employed,Detroit,17.8
+2022,,,Unemployed,Detroit,47.6
+2022,,Male,Unemployed,Detroit,38
+2022,,Female,Unemployed,Detroit,57.5
+2023,,,,Detroit,40.2
+2023,Under 5,,,Detroit,40.2
+2023,5 to 17,,,Detroit,45.5
+2023,Related children of household under 18 years old ,,,Detroit,44
+2023,18 to 34,,,Detroit,26.1
+2023,35 to 64,,,Detroit,31.5
+2023,60 years and over,,,Detroit,25.1
+2023,65 years and over ,,,Detroit,21.5
+2023,,Male,,Detroit,31.9
+2023,,Female,,Detroit,31.8
+2023,,,Employed,Detroit,12.8
+2023,,Male,Employed,Detroit,11.8
+2023,,Female,Employed,Detroit,13.7
+2023,,,Unemployed,Detroit,42.5
+2023,,Male,Unemployed,Detroit,39.6
+2023,,Female,Unemployed,Detroit,44.8
+2023,,,,,
