@@ -1,130 +1,177 @@
-Year,Age ,Sex,Employment statue ,Location ,Value
-2015,,,,Detroit,39.8
-2015,Under 5,,,Detroit,60.8
-2015,5 to 17,,,Detroit,56.3
-2015,Related children of household under 18 years old ,,,Detroit,57.3
-2015,18 to 34,,,Detroit,39.3
-2015,35 to 64,,,Detroit,35.2
-2015,60 years and over,,,Detroit,22.3
-2015,65 years and over ,,,Detroit,19.1
-2015,,Male,,Detroit,38.9
-2015,,Female,,Detroit,40.7
-2015,,,Employed,Detroit,19.9
-2015,,Male,Employed,Detroit,17.9
-2015,,Female,Employed,Detroit,21.7
-2015,,,Unemployed,Detroit,56.1
-2015,,Male,Unemployed,Detroit,55.6
-2015,,Female,Unemployed,Detroit,56.5
-2016,,,,Detroit,35.7
-2016,Under 5,,,Detroit,57.8
-2016,5 to 17,,,Detroit,47.8
-2016,Related children of household under 18 years old ,,,Detroit,50.6
-2016,18 to 34,,,Detroit,34.9
-2016,35 to 64,,,Detroit,31.4
-2016,60 years and over,,,Detroit,22.9
-2016,65 years and over ,,,Detroit,18.9
-2016,,Male,,Detroit,34.1
-2016,,Female,,Detroit,37.1
-2016,,,Employed,Detroit,16.5
-2016,,Male,Employed,Detroit,13.4
-2016,,Female,Employed,Detroit,19.3
-2016,,,Unemployed,Detroit,49.6
-2016,,Male,Unemployed,Detroit,45.2
-2016,,Female,Unemployed,Detroit,54.3
-2017,,,,Detroit,34.5
-2017,Under 5,,,Detroit,55
-2017,5 to 17,,,Detroit,5.3
-2017,Related children of household under 18 years old ,,,Detroit,48.1
-2017,18 to 34,,,Detroit,32.3
-2017,35 to 64,,,Detroit,31.5
-2017,60 years and over,,,Detroit,23.4
-2017,65 years and over ,,,Detroit,21.8
-2017,,Male,,Detroit,34.1
-2017,,Female,,Detroit,34.8
-2017,,,Employed,Detroit,14.3
-2017,,Male,Employed,Detroit,13.1
-2017,,Female,Employed,Detroit,15.4
-2017,,,Unemployed,Detroit,50.4
-2017,,Male,Unemployed,Detroit,46.1
-2017,,Female,Unemployed,Detroit,55.4
-2018,,,,Detroit,33.4
-2018,Under 5,,,Detroit,47.7
-2018,5 to 17,,,Detroit,47.1
-2018,Related children of household under 18 years old ,,,Detroit,47.1
-2018,18 to 34,,,Detroit,30.9
-2018,35 to 64,,,Detroit,30.5
-2018,60 years and over,,,Detroit,23
-2018,65 years and over ,,,Detroit,21
-2018,,Male,,Detroit,32.2
-2018,,Female,,Detroit,34.4
-2018,,,Employed,Detroit,14.9
-2018,,Male,Employed,Detroit,13.3
-2018,,Female,Employed,Detroit,16.3
-2018,,,Unemployed,Detroit,43.9
-2018,,Male,Unemployed,Detroit,41.4
-2018,,Female,Unemployed,Detroit,46.7
-2019,,,,Detroit,30.6
-2019,Under 5,,,Detroit,42.1
-2019,5 to 17,,,Detroit,43.7
-2019,Related children of household under 18 years old ,,,Detroit,43.1
-2019,18 to 34,,,Detroit,27.9
-2019,35 to 64,,,Detroit,28.5
-2019,60 years and over,,,Detroit,22.3
-2019,65 years and over ,,,Detroit,18.8
-2019,,Male,,Detroit,29.8
-2019,,Female,,Detroit,31.3
-2019,,,Employed,Detroit,14.2
-2019,,Male,Employed,Detroit,14
-2019,,Female,Employed,Detroit,14.5
-2019,,,Unemployed,Detroit,46.9
-2019,,Male,Unemployed,Detroit,47.9
-2019,,Female,Unemployed,Detroit,45.7
-2021,,,,Detroit,30.2
-2021,Under 5,,,Detroit,45.7
-2021,5 to 17,,,Detroit,42.1
-2021,Related children of household under 18 years old ,,,Detroit,42.9
-2021,18 to 34,,,Detroit,26.4
-2021,35 to 64,,,Detroit,27.9
-2021,60 years and over,,,Detroit,23.7
-2021,65 years and over ,,,Detroit,20
-2021,,Male,,Detroit,28.8
-2021,,Female,,Detroit,31.5
-2021,,,Employed,Detroit,11.4
-2021,,Male,Employed,Detroit,8.8
-2021,,Female,Employed,Detroit,13.7
-2021,,,Unemployed,Detroit,37.5
-2021,,Male,Unemployed,Detroit,37.9
-2021,,Female,Unemployed,Detroit,37.2
-2022,,,,Detroit,33.8
-2022,Under 5,,,Detroit,48.7
-2022,5 to 17,,,Detroit,49.6
-2022,Related children of household under 18 years old ,,,Detroit,49.2
-2022,18 to 34,,,Detroit,30.6
-2022,35 to 64,,,Detroit,31.5
-2022,60 years and over,,,Detroit,22.8
-2022,65 years and over ,,,Detroit,19.7
-2022,,Male,,Detroit,32
-2022,,Female,,Detroit,35.5
-2022,,,Employed,Detroit,15.8
-2022,,Male,Employed,Detroit,13.4
-2022,,Female,Employed,Detroit,17.8
-2022,,,Unemployed,Detroit,47.6
-2022,,Male,Unemployed,Detroit,38
-2022,,Female,Unemployed,Detroit,57.5
-2023,,,,Detroit,40.2
-2023,Under 5,,,Detroit,40.2
-2023,5 to 17,,,Detroit,45.5
-2023,Related children of household under 18 years old ,,,Detroit,44
-2023,18 to 34,,,Detroit,26.1
-2023,35 to 64,,,Detroit,31.5
-2023,60 years and over,,,Detroit,25.1
-2023,65 years and over ,,,Detroit,21.5
-2023,,Male,,Detroit,31.9
-2023,,Female,,Detroit,31.8
-2023,,,Employed,Detroit,12.8
-2023,,Male,Employed,Detroit,11.8
-2023,,Female,Employed,Detroit,13.7
-2023,,,Unemployed,Detroit,42.5
-2023,,Male,Unemployed,Detroit,39.6
-2023,,Female,Unemployed,Detroit,44.8
-2023,,,,,
+Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
+2015,,,,,,,,18.1
+2015,Under 18,,,,,Urban,Percent by Age,28.2
+2015,18 to 64,,,,,Urban,Percent by Age,16.7
+2015,65 years and over,,,,,Urban,Percent by Age,4.6
+2015,,Male,,,,Urban,Percent by Sex,17.8
+2015,,Female,,,,Urban,Percent by Sex,18.5
+2015,,,White,,,Urban,Percent by Race ,20.2
+2015,,,Black or African American,,,Urban,Percent by Race ,18.2
+2015,,,American Indian and Alaska Native,,,Urban,Percent by Race ,11.3
+2015,,,Asian,,,Urban,Percent by Race ,17.7
+2015,,,Native Hawaiian and Other Pacific Islander,,,,Percent by Race ,0
+2015,,,Some other race,,,Urban,Percent by Race ,11.6
+2015,,,Two or more races ,,,Urban,Percent by Race ,14
+2015,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,18.7
+2015,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,18.6
+2015,,,,Less than high school graduate,,Urban,Percent by Education,20.1
+2015,,,,High school graduate (includes equivalency) ,,,Percent by Education,15.3
+2015,,,,Some college or associates's degree ,,,Percent by Education,12
+2015,,,,Bachelor's degree or higher,,,Percent by Education,7.3
+2015,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.9
+2015,,,,,"Less than full time, year round",Urban,Percent by Employment Status,15.6
+2016,,,,,Did not work ,Urban,Percent by Employment Status,28.9
+2016,,,,,,,,16.6
+2016,Under 18,,,,,Urban,Percent by Age,26
+2016,18 to 64,,,,,Urban,Percent by Age,15.2
+2016,65 years and over,,,,,Urban,Percent by Age,4.7
+2016,,Male,,,,Urban,Percent by Sex,15.4
+2016,,Female,,,,Urban,Percent by Sex,17.7
+2016,,,White,,,Urban,Percent by Race ,14.7
+2016,,,Black or African American,,,Urban,Percent by Race ,16.8
+2016,,,American Indian and Alaska Native,,,Urban,Percent by Race ,17
+2016,,,Asian,,,Urban,Percent by Race ,27.4
+2016,,,Native Hawaiian and Other Pacific Islander,,,,,0
+2016,,,Some other race,,,Urban,Percent by Race ,15.5
+2016,,,Two or more races ,,,Urban,Percent by Race ,12.9
+2016,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,9
+2016,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,16.4
+2016,,,,Less than high school graduate,,Urban,Percent by Education,17.9
+2016,,,,High school graduate (includes equivalency) ,,,Percent by Education,15.3
+2016,,,,Some college or associates's degree ,,,Percent by Education,10.6
+2016,,,,Bachelor's degree or higher,,,Percent by Education,5.7
+2016,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.2
+2016,,,,,"Less than full time, year round",Urban,Percent by Employment Status,15.2
+2016,,,,,Did not work ,Urban,Percent by Employment Status,28.4
+2017,,,,,,,,17.3
+2017,Under 18,,,,,Urban,Percent by Age,27.7
+2017,18 to 64,,,,,Urban,Percent by Age,15.8
+2017,65 years and over,,,,,Urban,Percent by Age,4.8
+2017,,Male,,,,Urban,Percent by Sex,17.3
+2017,,Female,,,,Urban,Percent by Sex,17.3
+2017,,,White,,,Urban,Percent by Race ,18.9
+2017,,,Black or African American,,,Urban,Percent by Race ,16.8
+2017,,,American Indian and Alaska Native,,,Urban,Percent by Race ,18.7
+2017,,,Asian,,,Urban,Percent by Race ,11.8
+2017,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
+2017,,,Some other race,,,Urban,Percent by Race ,20.2
+2017,,,Two or more races ,,,Urban,Percent by Race ,27.8
+2017,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,22.7
+2017,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,17.8
+2017,,,,Less than high school graduate,,Urban,Percent by Education,18.2
+2017,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,15.6
+2017,,,,Some college or associates's degree ,,Urban,Percent by Education,10.9
+2017,,,,Bachelor's degree or higher,,Urban,Percent by Education,4.3
+2017,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.4
+2017,,,,,"Less than full time, year round",Urban,Percent by Employment Status,16.6
+2017,,,,,Did not work ,Urban,Percent by Employment Status,28.8
+2018,,,,,,,,17.2
+2018,Under 18,,,,,Urban,Percent by Age,27.1
+2018,18 to 64,,,,,Urban,Percent by Age,15.4
+2018,65 years and over,,,,,Urban,Percent by Age,7.6
+2018,,Male,,,,Urban,Percent by Sex,16.9
+2018,,Female,,,,Urban,Percent by Sex,17.4
+2018,,,White,,,Urban,Percent by Race ,18.4
+2018,,,Black or African American,,,Urban,Percent by Race ,17.2
+2018,,,American Indian and Alaska Native,,,Urban,Percent by Race ,8.9
+2018,,,Asian,,,Urban,Percent by Race ,3.7
+2018,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,23.4
+2018,,,Some other race,,,Urban,Percent by Race ,21.5
+2018,,,Two or more races ,,,Urban,Percent by Race ,10
+2018,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,14.6
+2018,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,20.5
+2018,,,,Less than high school graduate,,Urban,Percent by Education,18.9
+2018,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,16.6
+2018,,,,Some college or associates's degree ,,Urban,Percent by Education,9.8
+2018,,,,Bachelor's degree or higher,,Urban,Percent by Education,6.1
+2018,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.9
+2018,,,,,"Less than full time, year round",Urban,Percent by Employment Status,13.5
+2018,,,,,Did not work ,Urban,Percent by Employment Status,30.8
+2019,,,,,,,,13.7
+2019,Under 18,,,,,Urban,Percent by Age,21
+2019,18 to 64,,,,,Urban,Percent by Age,12.7
+2019,65 years and over,,,,,Urban,Percent by Age,5.4
+2019,,Male,,,,Urban,Percent by Sex,13.7
+2019,,Female,,,,Urban,Percent by Sex,13.8
+2019,,,White,,,Urban,Percent by Race ,17.5
+2019,,,Black or African American,,,Urban,Percent by Race ,13
+2019,,,American Indian and Alaska Native,,,Urban,Percent by Race ,28.6
+2019,,,Asian,,,Urban,Percent by Race ,5.6
+2019,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
+2019,,,Some other race,,,Urban,Percent by Race ,16
+2019,,,Two or more races ,,,Urban,Percent by Race ,12.8
+2019,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,18.2
+2019,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,16.2
+2019,,,,Less than high school graduate,,Urban,Percent by Education,18.1
+2019,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,12.7
+2019,,,,Some college or associates's degree ,,Urban,Percent by Education,8.8
+2019,,,,Bachelor's degree or higher,,Urban,Percent by Education,4.9
+2019,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.5
+2019,,,,,"Less than full time, year round",Urban,Percent by Employment Status,12.9
+2019,,,,,Did not work ,Urban,Percent by Employment Status,26.7
+2021,,,,,,,,14.7
+2021,Under 18,,,,,Urban,Percent by Age,24.4
+2021,18 to 64,,,,,Urban,Percent by Age,12.8
+2021,65 years and over,,,,,Urban,Percent by Age,6.4
+2021,,Male,,,,Urban,Percent by Sex,14.6
+2021,,Female,,,,Urban,Percent by Sex,14.9
+2021,,,White,,,Urban,Percent by Race ,15.2
+2021,,,Black or African American,,,Urban,Percent by Race ,15
+2021,,,American Indian and Alaska Native,,,Urban,Percent by Race ,5.2
+2021,,,Asian,,,Urban,Percent by Race ,13.3
+2021,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
+2021,,,Some other race,,,Urban,Percent by Race ,17
+2021,,,Two or more races ,,,Urban,Percent by Race ,10.2
+2021,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,14.8
+2021,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,14
+2021,,,,Less than high school graduate,,Urban,Percent by Education,16.9
+2021,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,13.8
+2021,,,,Some college or associates's degree ,,Urban,Percent by Education,9.1
+2021,,,,Bachelor's degree or higher,,Urban,Percent by Education,4.5
+2021,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.2
+2021,,,,,"Less than full time, year round",Urban,Percent by Employment Status,12.7
+2021,,,,,Did not work ,Urban,Percent by Employment Status,24.2
+2022,,,,,,,,17.8
+2022,Under 18,,,,,Urban,Percent by Age,31.1
+2022,18 to 64,,,,,Urban,Percent by Age,15.7
+2022,65 years and over,,,,,Urban,Percent by Age,4.4
+2022,,Male,,,,Urban,Percent by Sex,16.3
+2022,,Female,,,,Urban,Percent by Sex,19.1
+2022,,,White,,,Urban,Percent by Race ,13.6
+2022,,,Black or African American,,,Urban,Percent by Race ,18.8
+2022,,,American Indian and Alaska Native,,,Urban,Percent by Race ,2.9
+2022,,,Asian,,,Urban,Percent by Race ,6.2
+2022,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
+2022,,,Some other race,,,Urban,Percent by Race ,16.3
+2022,,,Two or more races ,,,Urban,Percent by Race ,17.6
+2022,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,16.2
+2022,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,12.9
+2022,,,,Less than high school graduate,,Urban,Percent by Education,19.4
+2022,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,13.8
+2022,,,,Some college or associates's degree ,,Urban,Percent by Education,12.5
+2022,,,,Bachelor's degree or higher,,Urban,Percent by Education,5.6
+2022,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.6
+2022,,,,,"Less than full time, year round",Urban,Percent by Employment Status,19.4
+2022,,,,,Did not work ,Urban,Percent by Employment Status,28.9
+2023,,,,,,,,15.3
+2023,Under 18,,,,,Urban,Percent by Age,21.2
+2023,18 to 64,,,,,Urban,Percent by Age,14.8
+2023,65 years and over,,,,,Urban,Percent by Age,7.4
+2023,,Male,,,,Urban,Percent by Sex,15.6
+2023,,Female,,,,Urban,Percent by Sex,15
+2023,,,White,,,Urban,Percent by Race ,12.3
+2023,,,Black or African American,,,Urban,Percent by Race ,15.3
+2023,,,American Indian and Alaska Native,,,Urban,Percent by Race ,10.5
+2023,,,Asian,,,Urban,Percent by Race ,11.8
+2023,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
+2023,,,Some other race,,,Urban,Percent by Race ,18.1
+2023,,,Two or more races ,,,Urban,Percent by Race ,18.9
+2023,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,16
+2023,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,11.7
+2023,,,,Less than high school graduate,,Urban,Percent by Education,21.7
+2023,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,13.7
+2023,,,,Some college or associates's degree ,,Urban,Percent by Education,12
+2023,,,,Bachelor's degree or higher,,Urban,Percent by Education,6.6
+2023,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.3
+2023,,,,,"Less than full time, year round",Urban,Percent by Employment Status,13.6
+2023,,,,,Did not work ,Urban,Percent by Employment Status,32.5
