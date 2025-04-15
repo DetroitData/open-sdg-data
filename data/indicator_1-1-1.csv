@@ -1,5 +1,5 @@
 Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
-2015,,,,,,,,18.1
+2015,,,,,,Urban,,18.1
 2015,Under 18,,,,,Urban,Percent by Age,28.2
 2015,18 to 64,,,,,Urban,Percent by Age,16.7
 2015,65 years and over,,,,,Urban,Percent by Age,4.6
@@ -9,19 +9,19 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2015,,,Black or African American,,,Urban,Percent by Race ,18.2
 2015,,,American Indian and Alaska Native,,,Urban,Percent by Race ,11.3
 2015,,,Asian,,,Urban,Percent by Race ,17.7
-2015,,,Native Hawaiian and Other Pacific Islander,,,,Percent by Race ,0
+2015,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
 2015,,,Some other race,,,Urban,Percent by Race ,11.6
 2015,,,Two or more races ,,,Urban,Percent by Race ,14
 2015,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,18.7
 2015,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,18.6
 2015,,,,Less than high school graduate,,Urban,Percent by Education,20.1
-2015,,,,High school graduate (includes equivalency) ,,,Percent by Education,15.3
-2015,,,,Some college or associates's degree ,,,Percent by Education,12
+2015,,,,High school graduate (includes equivalency) ,,Urban,Percent by Education,15.3
+2015,,,,Some college or associates's degree ,,Urban,Percent by Education,12
 2015,,,,Bachelor's degree or higher,,,Percent by Education,7.3
 2015,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.9
 2015,,,,,"Less than full time, year round",Urban,Percent by Employment Status,15.6
 2016,,,,,Did not work ,Urban,Percent by Employment Status,28.9
-2016,,,,,,,,16.6
+2016,,,,,,Urban,Percent by Race ,16.6
 2016,Under 18,,,,,Urban,Percent by Age,26
 2016,18 to 64,,,,,Urban,Percent by Age,15.2
 2016,65 years and over,,,,,Urban,Percent by Age,4.7
@@ -31,19 +31,19 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2016,,,Black or African American,,,Urban,Percent by Race ,16.8
 2016,,,American Indian and Alaska Native,,,Urban,Percent by Race ,17
 2016,,,Asian,,,Urban,Percent by Race ,27.4
-2016,,,Native Hawaiian and Other Pacific Islander,,,,,0
+2016,,,Native Hawaiian and Other Pacific Islander,,,Urban,Percent by Race ,0
 2016,,,Some other race,,,Urban,Percent by Race ,15.5
 2016,,,Two or more races ,,,Urban,Percent by Race ,12.9
 2016,,,Hispanci or Latino orgin (of any race) ,,,Urban,Percent by Race ,9
 2016,,,"White alone, not Hispanic or Latino",,,Urban,Percent by Race ,16.4
 2016,,,,Less than high school graduate,,Urban,Percent by Education,17.9
-2016,,,,High school graduate (includes equivalency) ,,,Percent by Education,15.3
-2016,,,,Some college or associates's degree ,,,Percent by Education,10.6
-2016,,,,Bachelor's degree or higher,,,Percent by Education,5.7
+2016,,,,High school graduate (includes equivalency) ,,urban,Percent by Education,15.3
+2016,,,,Some college or associates's degree ,,Urban,Percent by Education,10.6
+2016,,,,Bachelor's degree or higher,,Urban,Percent by Education,5.7
 2016,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.2
 2016,,,,,"Less than full time, year round",Urban,Percent by Employment Status,15.2
 2016,,,,,Did not work ,Urban,Percent by Employment Status,28.4
-2017,,,,,,,,17.3
+2017,,,,,,Urban,,17.3
 2017,Under 18,,,,,Urban,Percent by Age,27.7
 2017,18 to 64,,,,,Urban,Percent by Age,15.8
 2017,65 years and over,,,,,Urban,Percent by Age,4.8
@@ -65,7 +65,7 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2017,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.4
 2017,,,,,"Less than full time, year round",Urban,Percent by Employment Status,16.6
 2017,,,,,Did not work ,Urban,Percent by Employment Status,28.8
-2018,,,,,,,,17.2
+2018,,,,,,Urban,,17.2
 2018,Under 18,,,,,Urban,Percent by Age,27.1
 2018,18 to 64,,,,,Urban,Percent by Age,15.4
 2018,65 years and over,,,,,Urban,Percent by Age,7.6
@@ -87,7 +87,7 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2018,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.9
 2018,,,,,"Less than full time, year round",Urban,Percent by Employment Status,13.5
 2018,,,,,Did not work ,Urban,Percent by Employment Status,30.8
-2019,,,,,,,,13.7
+2019,,,,,,Urban,,13.7
 2019,Under 18,,,,,Urban,Percent by Age,21
 2019,18 to 64,,,,,Urban,Percent by Age,12.7
 2019,65 years and over,,,,,Urban,Percent by Age,5.4
@@ -109,7 +109,7 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2019,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.5
 2019,,,,,"Less than full time, year round",Urban,Percent by Employment Status,12.9
 2019,,,,,Did not work ,Urban,Percent by Employment Status,26.7
-2021,,,,,,,,14.7
+2021,,,,,,Urban,,14.7
 2021,Under 18,,,,,Urban,Percent by Age,24.4
 2021,18 to 64,,,,,Urban,Percent by Age,12.8
 2021,65 years and over,,,,,Urban,Percent by Age,6.4
@@ -131,7 +131,7 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2021,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.2
 2021,,,,,"Less than full time, year round",Urban,Percent by Employment Status,12.7
 2021,,,,,Did not work ,Urban,Percent by Employment Status,24.2
-2022,,,,,,,,17.8
+2022,,,,,,Urban,,17.8
 2022,Under 18,,,,,Urban,Percent by Age,31.1
 2022,18 to 64,,,,,Urban,Percent by Age,15.7
 2022,65 years and over,,,,,Urban,Percent by Age,4.4
@@ -153,7 +153,7 @@ Year,Age,Sex,Race,Education,Employment Status,Geographic Location,Units,Value
 2022,,,,,"Full-time, year round",Urban,Percent by Employment Status,1.6
 2022,,,,,"Less than full time, year round",Urban,Percent by Employment Status,19.4
 2022,,,,,Did not work ,Urban,Percent by Employment Status,28.9
-2023,,,,,,,,15.3
+2023,,,,,,Urban,,15.3
 2023,Under 18,,,,,Urban,Percent by Age,21.2
 2023,18 to 64,,,,,Urban,Percent by Age,14.8
 2023,65 years and over,,,,,Urban,Percent by Age,7.4
