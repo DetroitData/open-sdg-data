@@ -1,13 +1,34 @@
-Year,Race/ Ethnicity,Units,Value
-2015,,"Death per 100,000 live Births",68.9
-2015-2019,Black,"Death per 100,000 live Births",29.8
-2015-2019,White,"Death per 100,000 live Births",10.7
-2016,,"Death per 100,000 live Births",82
-2016-2020,Black,"Death per 100,000 live Births",127.3
-2016-2020,White,"Death per 100,000 live Births",72.2
-2016-2020,American Indian/ Alaska Native,"Death per 100,000 live Births",142
-2016-2020,All Other Races,"Death per 100,000 live Births",31.8
-2017,,"Death per 100,000 live Births",69.1
-2018,,"Death per 100,000 live Births",74.5
-2019,,"Death per 100,000 live Births",76.9
-2020,,"Death per 100,000 live Births",102.7
+Year,Mortality Association Type,Units,Value
+2011,Pregnancy Asociated,"Ratio per 100,000 live births",60.4
+2012,Pregnancy Asociated,"Ratio per 100,000 live births",50.6
+2013,Pregnancy Asociated,"Ratio per 100,000 live births",51.9
+2014,Pregnancy Asociated,"Ratio per 100,000 live births",70.8
+2015,Pregnancy Asociated,"Ratio per 100,000 live births",68.9
+2016,Pregnancy Asociated,"Ratio per 100,000 live births",82.0
+2017,Pregnancy Asociated,"Ratio per 100,000 live births",69.1
+2018,Pregnancy Asociated,"Ratio per 100,000 live births",74.5
+2019,Pregnancy Asociated,"Ratio per 100,000 live births",76.9
+2020,Pregnancy Asociated,"Ratio per 100,000 live births",102.7
+2021,Pregnancy Asociated,"Ratio per 100,000 live births",92.4
+2011,Pregnancy Associated Not Related,"Ratio per 100,000 live births",41.2
+2012,Pregnancy Associated Not Related,"Ratio per 100,000 live births",41.7
+2013,Pregnancy Associated Not Related,"Ratio per 100,000 live births",40.4
+2014,Pregnancy Associated Not Related,"Ratio per 100,000 live births",62.9
+2015,Pregnancy Associated Not Related,"Ratio per 100,000 live births",53.0
+2016,Pregnancy Associated Not Related,"Ratio per 100,000 live births",70.6
+2017,Pregnancy Associated Not Related,"Ratio per 100,000 live births",52.0
+2018,Pregnancy Associated Not Related,"Ratio per 100,000 live births",56.3
+2019,Pregnancy Associated Not Related,"Ratio per 100,000 live births",45.4
+2020,Pregnancy Associated Not Related,"Ratio per 100,000 live births",53.8
+2021,Pregnancy Associated Not Related,"Ratio per 100,000 live births",50.5
+2011,Pregnancy Related,"Ratio per 100,000 live births",17.5
+2012,Pregnancy Related,"Ratio per 100,000 live births",8.0
+2013,Pregnancy Related,"Ratio per 100,000 live births",10.6
+2014,Pregnancy Related,"Ratio per 100,000 live births",7.9
+2015,Pregnancy Related,"Ratio per 100,000 live births",14.1
+2016,Pregnancy Related,"Ratio per 100,000 live births",11.5
+2017,Pregnancy Related,"Ratio per 100,000 live births",9.9
+2018,Pregnancy Related,"Ratio per 100,000 live births",10.9
+2019,Pregnancy Related,"Ratio per 100,000 live births",23.2
+2020,Pregnancy Related,"Ratio per 100,000 live births",43.2
+2021,Pregnancy Related,"Ratio per 100,000 live births",37.1
