@@ -1,15 +1,15 @@
 Year,Mortality Association Type,Units,Value
-2011,Pregnancy Asociated,"Ratio per 100,000 live births",60.4
-2012,Pregnancy Asociated,"Ratio per 100,000 live births",50.6
-2013,Pregnancy Asociated,"Ratio per 100,000 live births",51.9
-2014,Pregnancy Asociated,"Ratio per 100,000 live births",70.8
-2015,Pregnancy Asociated,"Ratio per 100,000 live births",68.9
-2016,Pregnancy Asociated,"Ratio per 100,000 live births",82.0
-2017,Pregnancy Asociated,"Ratio per 100,000 live births",69.1
-2018,Pregnancy Asociated,"Ratio per 100,000 live births",74.5
-2019,Pregnancy Asociated,"Ratio per 100,000 live births",76.9
-2020,Pregnancy Asociated,"Ratio per 100,000 live births",102.7
-2021,Pregnancy Asociated,"Ratio per 100,000 live births",92.4
+2011,Pregnancy Associated,"Ratio per 100,000 live births",60.4
+2012,Pregnancy Associated,"Ratio per 100,000 live births",50.6
+2013,Pregnancy Associated,"Ratio per 100,000 live births",51.9
+2014,Pregnancy Associated,"Ratio per 100,000 live births",70.8
+2015,Pregnancy Associated,"Ratio per 100,000 live births",68.9
+2016,Pregnancy Associated,"Ratio per 100,000 live births",82.0
+2017,Pregnancy Associated,"Ratio per 100,000 live births",69.1
+2018,Pregnancy Associated,"Ratio per 100,000 live births",74.5
+2019,Pregnancy Associated,"Ratio per 100,000 live births",76.9
+2020,Pregnancy Associated,"Ratio per 100,000 live births",102.7
+2021,Pregnancy Associated,"Ratio per 100,000 live births",92.4
 2011,Pregnancy Associated Not Related,"Ratio per 100,000 live births",41.2
 2012,Pregnancy Associated Not Related,"Ratio per 100,000 live births",41.7
 2013,Pregnancy Associated Not Related,"Ratio per 100,000 live births",40.4
