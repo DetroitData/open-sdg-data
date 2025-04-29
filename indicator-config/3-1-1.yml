@@ -65,9 +65,8 @@ sources:
     periodicity: ''
     earliest_available: ''
     geographical_coverage: Detroit
-    url: >-
-      https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/MCH-Epidemiology/MMMS_2015-2019-Report_final.pdf?rev=73c09aa823314d67ba532ddc2927f504&hash=D5A7B808B324EB7AA9FCE5015546B7D2
-    url_text: 2015-2019 Report
+    url: "https://www.michigan.gov/mdhhs/adult-child-serv/childrenfamilies/mmms/category-data/michigan-maternal-mortality-surveillance-mmms-program-data"
+    url_text: Michigan Maternal Mortality Surveillance (MMMS) Program - Data
     release_date: ''
     next_release: ''
     statistical_classification: ''
