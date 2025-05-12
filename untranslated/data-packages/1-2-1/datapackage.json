@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 5",
+                "5 to 17",
+                "18 to 34",
+                "35 to 64",
+                "60 years and over",
+                "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Gender",
@@ -47,15 +47,15 @@
             "constraints": {
               "enum": [
                 "High School",
-                "Elementary School",
                 "Middle School",
+                "Elementary School",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

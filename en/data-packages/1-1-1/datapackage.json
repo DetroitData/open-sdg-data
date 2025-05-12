@@ -16,20 +16,107 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Under 18",
+                "18 to 64",
+                "65 years and over",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black or African American",
+                "American Indian and Alaska Native",
+                "Asian",
+                "Native Hawaiian and Other Pacific Islander",
+                "Some other race",
+                "Two or more races",
+                "Hispanic or Latino orgin (of any race)",
+                "White alone, not Hispanic or Latino",
+                "Hispanci or Latino orgin (of any race)",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than high school graduate",
+                "High school graduate (includes equivalency)",
+                "Some college or associates's degree",
+                "Bachelor's degree or higher",
+                ""
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "Employment Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Full-time, year round",
+                "Less than full time, year round",
+                "Did not work",
+                ""
+              ]
+            },
+            "title": "Employment Status"
+          },
+          {
+            "name": "Geographic Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "urban",
+                ""
+              ]
+            },
+            "title": "Geographic Location"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent by Age",
+                "Percent by Sex",
+                "Percent by Race",
+                "Percent by Education",
+                "Percent by Employment Status",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

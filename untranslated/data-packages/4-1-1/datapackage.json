@@ -12,7 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Grade Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "11th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economically Disadvantaged",
+                "Not Economically Disadvantaged",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Test",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M-STEP",
+                "PSAT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "English Language Arts",
+                "Math",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

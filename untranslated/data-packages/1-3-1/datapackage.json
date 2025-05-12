@@ -15,6 +15,209 @@
             "type": "number"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 18",
+                "18-64",
+                "65 and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aged",
+                "Blind and disabled",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of Support",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SSI",
+                "Medicaid",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Enrollment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 11",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2018.0",
+                "2019.0",
+                "2020.0",
+                "2021.0",
+                "2022.0",
+                "2023.0",
+                "2024.0",
+                "2025.0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 12",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 18",
+                "18-64",
+                "65 and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aged",
+                "Blind and disabled",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 14",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SSI",
+                "Umemployment Insurance",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 15",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Enrollment",
+                "Percent of Recipients",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "83826.0",
+                "11043.0",
+                "55732.0",
+                "17051.0",
+                "6086.0",
+                "77740.0",
+                "82982.0",
+                "10793.0",
+                "54478.0",
+                "17711.0",
+                "6135.0",
+                "76847.0",
+                "25.2",
+                "81280.0",
+                "10643.0",
+                "52502.0",
+                "18135.0",
+                "6040.0",
+                "75240.0",
+                "17.0",
+                "78476.0",
+                "9947.0",
+                "4989.0",
+                "18720.0",
+                "6022.0",
+                "72454.0",
+                "34.5",
+                "76152.0",
+                "953.0",
+                "47160.0",
+                "19439.0",
+                "6266.0",
+                "69886.0",
+                "27.8",
+                "75006.0",
+                "9822.0",
+                "44840.0",
+                "20344.0",
+                "6534.0",
+                "68472.0",
+                "33.6",
+                "31.8",
+                "37.5",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

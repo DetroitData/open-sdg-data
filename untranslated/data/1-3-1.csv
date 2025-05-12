@@ -1,1 +1,62 @@
-Year,Value
+Year,Age,Disabilities,Type of Support,Units,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Value
+2015.0,,,SSI,Total Enrollment,,,,,,,,,,,,84892.0
+2015.0,Under 18,,SSI,Total Enrollment,,,,,,,,,,,,12140.0
+2015.0,18-64,,SSI,Total Enrollment,,,,,,,,,,,,57973.0
+2015.0,65 and older,,SSI,Total Enrollment,,,,,,,,,,,,11779.0
+2015.0,,Aged,SSI,Total Enrollment,,,,,,,,,,,,517.0
+2015.0,,Blind and disabled,SSI,Total Enrollment,,,,,,,,,,,,79375.0
+2016.0,,,SSI,Total Enrollment,,,,,,,,,,,,84737.0
+2016.0,Under 18,,SSI,Total Enrollment,,,,,,,,,,,,11644.0
+2016.0,18-64,,SSI,Total Enrollment,,,,,,,,,,,,5749.0
+2016.0,65 and older,,SSI,Total Enrollment,,,,,,,,,,,,15544.0
+2016.0,,Aged,SSI,Total Enrollment,,,,,,,,,,,,5717.0
+2016.0,,Blind and disabled,SSI,Total Enrollment,,,,,,,,,,,,79020.0
+2016.0,,,Medicaid,Total Enrollment,,,,,,,,,,,,486819.0
+2017.0,,,SSI,Total Enrollment,,,,,,,,,,,,84810.0
+2017.0,Under 18,,SSI,Total Enrollment,,,,,,,,,,,,11396.0
+2017.0,18-64,,SSI,Total Enrollment,,,,,,,,,,,,57000.0
+2017.0,65 and older,,SSI,Total Enrollment,,,,,,,,,,,,16414.0
+2017.0,,Aged,SSI,Total Enrollment,,,,,,,,,,,,6002.0
+2017.0,,Blind and disabled,SSI,Total Enrollment,,,,,,2018.0,,,SSI,Total Enrollment,83826.0,78808.0
+2017.0,,,Medicaid,Total Enrollment,,,,,,2018.0,Under 18,,SSI,Total Enrollment,11043.0,
+,,,,,,,,,,2018.0,18-64,,SSI,Total Enrollment,55732.0,
+,,,,,,,,,,2018.0,65 and older,,SSI,Total Enrollment,17051.0,
+,,,,,,,,,,2018.0,,Aged,SSI,Total Enrollment,6086.0,
+,,,,,,,,,,2018.0,,Blind and disabled,SSI,Total Enrollment,77740.0,
+,,,,,,,,,,2019.0,,,SSI,Total Enrollment,82982.0,
+,,,,,,,,,,2019.0,Under 18,,SSI,Total Enrollment,10793.0,
+,,,,,,,,,,2019.0,18-64,,SSI,Total Enrollment,54478.0,
+,,,,,,,,,,2019.0,65 and older,,SSI,Total Enrollment,17711.0,
+,,,,,,,,,,2019.0,,Aged,SSI,Total Enrollment,6135.0,
+,,,,,,,,,,2019.0,,Blind and disabled,SSI,Total Enrollment,76847.0,
+,,,,,,,,,,2019.0,,,Umemployment Insurance,Percent of Recipients,25.2,
+,,,,,,,,,,2020.0,,,SSI,Total Enrollment,81280.0,
+,,,,,,,,,,2020.0,Under 18,,SSI,Total Enrollment,10643.0,
+,,,,,,,,,,2020.0,18-64,,SSI,Total Enrollment,52502.0,
+,,,,,,,,,,2020.0,65 and older,,SSI,Total Enrollment,18135.0,
+,,,,,,,,,,2020.0,,Aged,SSI,Total Enrollment,6040.0,
+,,,,,,,,,,2020.0,,Blind and disabled,SSI,Total Enrollment,75240.0,
+,,,,,,,,,,2020.0,,,Umemployment Insurance,Percent of Recipients,17.0,
+,,,,,,,,,,2021.0,,,SSI,Total Enrollment,78476.0,
+,,,,,,,,,,2021.0,Under 18,,SSI,Total Enrollment,9947.0,
+,,,,,,,,,,2021.0,18-64,,SSI,Total Enrollment,4989.0,
+,,,,,,,,,,2021.0,65 and older,,SSI,Total Enrollment,18720.0,
+,,,,,,,,,,2021.0,,Aged,SSI,Total Enrollment,6022.0,
+,,,,,,,,,,2021.0,,Blind and disabled,SSI,Total Enrollment,72454.0,
+,,,,,,,,,,2021.0,,,Umemployment Insurance,Percent of Recipients,34.5,
+,,,,,,,,,,2022.0,,,SSI,Total Enrollment,76152.0,
+,,,,,,,,,,2022.0,Under 18,,SSI,Total Enrollment,953.0,
+,,,,,,,,,,2022.0,18-64,,SSI,Total Enrollment,47160.0,
+,,,,,,,,,,2022.0,65 and older,,SSI,Total Enrollment,19439.0,
+,,,,,,,,,,2022.0,,Aged,SSI,Total Enrollment,6266.0,
+,,,,,,,,,,2022.0,,Blind and disabled,SSI,Total Enrollment,69886.0,
+,,,,,,,,,,2022.0,,,Umemployment Insurance,Percent of Recipients,27.8,
+,,,,,,,,,,2023.0,,,SSI,Total Enrollment,75006.0,
+,,,,,,,,,,2023.0,Under 18,,SSI,Total Enrollment,9822.0,
+,,,,,,,,,,2023.0,18-64,,SSI,Total Enrollment,44840.0,
+,,,,,,,,,,2023.0,65 and older,,SSI,Total Enrollment,20344.0,
+,,,,,,,,,,2023.0,,Aged,SSI,Total Enrollment,6534.0,
+,,,,,,,,,,2023.0,,Blind and disabled,SSI,Total Enrollment,68472.0,
+,,,,,,,,,,2023.0,,,Umemployment Insurance,Percent of Recipients,33.6,
+,,,,,,,,,,2024.0,,,Umemployment Insurance,Percent of Recipients,31.8,
+,,,,,,,,,,2025.0,,,Umemployment Insurance,Percent of Recipients,37.5,

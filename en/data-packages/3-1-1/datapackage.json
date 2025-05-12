@@ -12,29 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Race/ Ethnicity",
+            "name": "Mortality Association Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Black",
-                "White",
-                "American Indian/ Alaska Native",
-                "All Other Races",
+                "Pregnancy Associated",
+                "Pregnancy Associated Not Related",
+                "Pregnancy Related",
                 ""
               ]
             },
-            "title": "Race/ Ethnicity"
+            "title": "Mortality Association Type"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Death per 100,000 live Births",
+                "Ratio per 100,000 live births",
                 ""
               ]
             },
