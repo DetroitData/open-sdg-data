@@ -24,10 +24,6 @@ graph_type: line
 data_start_values:
   - field: Mortality Association Type
     value: Pregnancy Associated
-  - field: Mortality Association Type
-    value: Pregnancy Associated Not Related
-  - field: Mortality Association Type
-    value: Pregnancy Related
 indicator_available: ''
 indicator_name: global_indicators.3-1-1-title
 indicator_number: 3.1.1
