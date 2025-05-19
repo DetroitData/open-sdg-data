@@ -1,4 +1,5 @@
 Disaggregation,Number of indicators,Number of values
+Birthweight,1,2
 Cause of Death,1,4
 Disease,1,2
 Gender,2,3
@@ -6,7 +7,7 @@ Level of School,1,3
 Mortality Association Type,1,3
 Mother Age Group,1,1
 Mutual Aid Programs,1,4
-Race,1,7
+Race,2,12
 Race/Ethnicity,1,4
 Unit,6,12
 Use of Birth Control,1,14
