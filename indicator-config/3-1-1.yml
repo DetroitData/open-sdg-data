@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_target_lines: 
   - value: 70
 graph_title: Maternal Mortality Ratio
-graph_type: line
+graph_type: bar
 data_start_values:
   - field: Mortality Association Type
     value: Pregnancy Associated
