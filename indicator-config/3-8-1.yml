@@ -22,11 +22,11 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3-8-Coverage of essential health services
+graph_title: 3-8-1 Coverage of essential health services
 graph_titles: []
 graph_type: bar
 indicator_available: ''
-indicator_name: 3-8-1-title
+indicator_name: 3-8-1-Coverage of essential health services
 indicator_number: 3.8.1
 indicator_tabs:
   override: false
