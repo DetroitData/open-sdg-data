@@ -1,1 +1,15 @@
-Year,Value
+Year,Unit,Value
+2017-2021,Injury,9246
+2021,Injury,9058
+2017,Fire,30
+2018,Fire,39
+2019,Fire,42
+2020,Fire,31
+2021,Fire,39
+2018,Cold/Wind Chill ,4
+2015,PHMSA Pipeline Incidents,4
+2016,PHMSA Pipeline Incidents,4
+2017,PHMSA Pipeline Incidents,2
+2018,PHMSA Pipeline Incidents,1
+2019,PHMSA Pipeline Incidents,2
+2020,PHMSA Pipeline Incidents,6

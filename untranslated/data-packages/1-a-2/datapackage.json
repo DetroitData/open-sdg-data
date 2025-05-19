@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Type of Spending",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education ",
+                "Homeless Public Service",
+                "Health",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
