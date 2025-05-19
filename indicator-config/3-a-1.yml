@@ -56,7 +56,7 @@ proxy: ''
 proxy_series: []
 publications: []
 related_indicators: []
-reporting_status: inprogress
+reporting_status: complete
 sort: ''
 sources:
   - organisation: MDHHS

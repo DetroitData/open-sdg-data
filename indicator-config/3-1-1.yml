@@ -32,8 +32,10 @@ graph_target_lines:
     label_content: indicator.annotation_2030_target
     value: 70
 graph_title: Maternal Mortality Ratio
-graph_titles: []
 graph_type: line
+data_start_values:
+  - field: Mortality Association Type
+    value: Pregnancy Associated
 indicator_available: ''
 indicator_name: title
 indicator_number: 3.1.1

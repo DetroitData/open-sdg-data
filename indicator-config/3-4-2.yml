@@ -33,7 +33,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: 3-4-2-Suicide mortality rate
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_name: 3-4-2 Suicide mortality rate
 indicator_number: '3.4.2'
 national_geographical_coverage: 'Detroit'
