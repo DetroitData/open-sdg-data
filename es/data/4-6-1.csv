@@ -1,1 +1,811 @@
-Year,Value
+Year,Grade Level,Subject,Growth,Gender,Value
+2015-2016,4th,ELA,Above Average Growth,,18.8
+2015-2016,4th,ELA,Above Average Growth,Female,20.3
+2015-2016,4th,ELA,Above Average Growth,Male,17.2
+2015-2016,4th,ELA,Average Growth,,37.7
+2015-2016,4th,ELA,Average Growth,Female,38.5
+2015-2016,4th,ELA,Average Growth,Male,36.8
+2015-2016,4th,ELA,Below Average Growth,,43.5
+2015-2016,4th,ELA,Below Average Growth,Female,41.2
+2015-2016,4th,ELA,Below Average Growth,Male,46.0
+2015-2016,4th,Mathematics,Above Average Growth,,15.4
+2015-2016,4th,Mathematics,Above Average Growth,Female,15.3
+2015-2016,4th,Mathematics,Above Average Growth,Male,15.5
+2015-2016,4th,Mathematics,Average Growth,,35.1
+2015-2016,4th,Mathematics,Average Growth,Female,35.4
+2015-2016,4th,Mathematics,Average Growth,Male,34.8
+2015-2016,4th,Mathematics,Below Average Growth,,49.5
+2015-2016,4th,Mathematics,Below Average Growth,Female,49.3
+2015-2016,4th,Mathematics,Below Average Growth,Male,49.7
+2015-2016,5th,ELA,Above Average Growth,,16.5
+2015-2016,5th,ELA,Above Average Growth,Female,17.1
+2015-2016,5th,ELA,Above Average Growth,Male,15.9
+2015-2016,5th,ELA,Average Growth,,36.0
+2015-2016,5th,ELA,Average Growth,Female,38.8
+2015-2016,5th,ELA,Average Growth,Male,33.4
+2015-2016,5th,ELA,Below Average Growth,,47.4
+2015-2016,5th,ELA,Below Average Growth,Female,44.1
+2015-2016,5th,ELA,Below Average Growth,Male,50.7
+2015-2016,5th,Mathematics,Above Average Growth,,12.1
+2015-2016,5th,Mathematics,Above Average Growth,Female,13.7
+2015-2016,5th,Mathematics,Above Average Growth,Male,10.5
+2015-2016,5th,Mathematics,Average Growth,,36.7
+2015-2016,5th,Mathematics,Average Growth,Female,35.6
+2015-2016,5th,Mathematics,Average Growth,Male,37.9
+2015-2016,5th,Mathematics,Below Average Growth,,51.2
+2015-2016,5th,Mathematics,Below Average Growth,Female,50.7
+2015-2016,5th,Mathematics,Below Average Growth,Male,51.6
+2015-2016,6th,ELA,Above Average Growth,,15.6
+2015-2016,6th,ELA,Above Average Growth,Female,16.4
+2015-2016,6th,ELA,Above Average Growth,Male,14.9
+2015-2016,6th,ELA,Average Growth,,37.0
+2015-2016,6th,ELA,Average Growth,Female,37.9
+2015-2016,6th,ELA,Average Growth,Male,36.0
+2015-2016,6th,ELA,Below Average Growth,,47.4
+2015-2016,6th,ELA,Below Average Growth,Female,45.7
+2015-2016,6th,ELA,Below Average Growth,Male,49.1
+2015-2016,6th,Mathematics,Above Average Growth,,15.6
+2015-2016,6th,Mathematics,Above Average Growth,Female,16.0
+2015-2016,6th,Mathematics,Above Average Growth,Male,15.1
+2015-2016,6th,Mathematics,Average Growth,,38.8
+2015-2016,6th,Mathematics,Average Growth,Female,40.3
+2015-2016,6th,Mathematics,Average Growth,Male,37.3
+2015-2016,6th,Mathematics,Below Average Growth,,45.6
+2015-2016,6th,Mathematics,Below Average Growth,Female,43.7
+2015-2016,6th,Mathematics,Below Average Growth,Male,47.6
+2015-2016,7th,ELA,Above Average Growth,,17.8
+2015-2016,7th,ELA,Above Average Growth,Female,20.7
+2015-2016,7th,ELA,Above Average Growth,Male,14.9
+2015-2016,7th,ELA,Average Growth,,37.9
+2015-2016,7th,ELA,Average Growth,Female,38.5
+2015-2016,7th,ELA,Average Growth,Male,37.4
+2015-2016,7th,ELA,Below Average Growth,,44.3
+2015-2016,7th,ELA,Below Average Growth,Female,40.8
+2015-2016,7th,ELA,Below Average Growth,Male,47.8
+2015-2016,7th,Mathematics,Above Average Growth,,19.5
+2015-2016,7th,Mathematics,Above Average Growth,Female,19.9
+2015-2016,7th,Mathematics,Above Average Growth,Male,19.0
+2015-2016,7th,Mathematics,Average Growth,,38.7
+2015-2016,7th,Mathematics,Average Growth,Female,38.4
+2015-2016,7th,Mathematics,Average Growth,Male,39.1
+2015-2016,7th,Mathematics,Below Average Growth,,41.8
+2015-2016,7th,Mathematics,Below Average Growth,Female,41.6
+2015-2016,7th,Mathematics,Below Average Growth,Male,41.9
+2015-2016,8th,ELA,Above Average Growth,,20.0
+2015-2016,8th,ELA,Above Average Growth,Female,21.3
+2015-2016,8th,ELA,Above Average Growth,Male,18.7
+2015-2016,8th,ELA,Average Growth,,39.1
+2015-2016,8th,ELA,Average Growth,Female,40.3
+2015-2016,8th,ELA,Average Growth,Male,37.8
+2015-2016,8th,ELA,Below Average Growth,,40.9
+2015-2016,8th,ELA,Below Average Growth,Female,38.4
+2015-2016,8th,ELA,Below Average Growth,Male,43.5
+2015-2016,8th,Mathematics,Above Average Growth,,21.6
+2015-2016,8th,Mathematics,Above Average Growth,Female,23.1
+2015-2016,8th,Mathematics,Above Average Growth,Male,20.0
+2015-2016,8th,Mathematics,Average Growth,,41.5
+2015-2016,8th,Mathematics,Average Growth,Female,42.1
+2015-2016,8th,Mathematics,Average Growth,Male,40.9
+2015-2016,8th,Mathematics,Below Average Growth,,36.9
+2015-2016,8th,Mathematics,Below Average Growth,Female,34.8
+2015-2016,8th,Mathematics,Below Average Growth,Male,39.1
+2015-2016,11th,ELA,Above Average Growth,,14.9
+2015-2016,11th,ELA,Above Average Growth,Female,13.3
+2015-2016,11th,ELA,Above Average Growth,Male,17.2
+2015-2016,11th,ELA,Average Growth,,34.9
+2015-2016,11th,ELA,Average Growth,Female,35.4
+2015-2016,11th,ELA,Average Growth,Male,34.1
+2015-2016,11th,ELA,Below Average Growth,,50.2
+2015-2016,11th,ELA,Below Average Growth,Female,51.3
+2015-2016,11th,ELA,Below Average Growth,Male,48.7
+2015-2016,11th,Mathematics,Above Average Growth,,16.0
+2015-2016,11th,Mathematics,Above Average Growth,Female,15.1
+2015-2016,11th,Mathematics,Above Average Growth,Male,17.3
+2015-2016,11th,Mathematics,Average Growth,,37.2
+2015-2016,11th,Mathematics,Average Growth,Female,36.9
+2015-2016,11th,Mathematics,Average Growth,Male,37.8
+2015-2016,11th,Mathematics,Below Average Growth,,46.7
+2015-2016,11th,Mathematics,Below Average Growth,Female,48.0
+2015-2016,11th,Mathematics,Below Average Growth,Male,44.9
+2016-2017,4th,ELA,Above Average Growth,,18.5
+2016-2017,4th,ELA,Above Average Growth,Female,20.1
+2016-2017,4th,ELA,Above Average Growth,Male,16.9
+2016-2017,4th,ELA,Average Growth,,39.1
+2016-2017,4th,ELA,Average Growth,Female,39.5
+2016-2017,4th,ELA,Average Growth,Male,38.8
+2016-2017,4th,ELA,Below Average Growth,,42.4
+2016-2017,4th,ELA,Below Average Growth,Female,40.5
+2016-2017,4th,ELA,Below Average Growth,Male,44.3
+2016-2017,4th,Mathematics,Above Average Growth,,18.3
+2016-2017,4th,Mathematics,Above Average Growth,Female,18.0
+2016-2017,4th,Mathematics,Above Average Growth,Male,18.5
+2016-2017,4th,Mathematics,Average Growth,,35.7
+2016-2017,4th,Mathematics,Average Growth,Female,36.7
+2016-2017,4th,Mathematics,Average Growth,Male,34.6
+2016-2017,4th,Mathematics,Below Average Growth,,46.1
+2016-2017,4th,Mathematics,Below Average Growth,Female,45.3
+2016-2017,4th,Mathematics,Below Average Growth,Male,46.9
+2016-2017,5th,ELA,Above Average Growth,,22.5
+2016-2017,5th,ELA,Above Average Growth,Female,25.0
+2016-2017,5th,ELA,Above Average Growth,Male,199.0
+2016-2017,5th,ELA,Average Growth,,38.9
+2016-2017,5th,ELA,Average Growth,Female,40.4
+2016-2017,5th,ELA,Average Growth,Male,37.3
+2016-2017,5th,ELA,Below Average Growth,,38.6
+2016-2017,5th,ELA,Below Average Growth,Female,34.6
+2016-2017,5th,ELA,Below Average Growth,Male,42.8
+2016-2017,5th,Mathematics,Above Average Growth,,19.7
+2016-2017,5th,Mathematics,Above Average Growth,Female,20.5
+2016-2017,5th,Mathematics,Above Average Growth,Male,18.8
+2016-2017,5th,Mathematics,Average Growth,,37.4
+2016-2017,5th,Mathematics,Average Growth,Female,38.7
+2016-2017,5th,Mathematics,Average Growth,Male,35.9
+2016-2017,5th,Mathematics,Below Average Growth,,43.0
+2016-2017,5th,Mathematics,Below Average Growth,Female,40.7
+2016-2017,5th,Mathematics,Below Average Growth,Male,45.2
+2016-2017,6th,ELA,Above Average Growth,,25.4
+2016-2017,6th,ELA,Above Average Growth,Female,26.3
+2016-2017,6th,ELA,Above Average Growth,Male,24.5
+2016-2017,6th,ELA,Average Growth,,40.7
+2016-2017,6th,ELA,Average Growth,Female,43.2
+2016-2017,6th,ELA,Average Growth,Male,38.4
+2016-2017,6th,ELA,Below Average Growth,,33.9
+2016-2017,6th,ELA,Below Average Growth,Female,30.5
+2016-2017,6th,ELA,Below Average Growth,Male,37.1
+2016-2017,6th,Mathematics,Above Average Growth,,27.6
+2016-2017,6th,Mathematics,Above Average Growth,Female,28.6
+2016-2017,6th,Mathematics,Above Average Growth,Male,26.7
+2016-2017,6th,Mathematics,Average Growth,,39.5
+2016-2017,6th,Mathematics,Average Growth,Female,40.2
+2016-2017,6th,Mathematics,Average Growth,Male,38.7
+2016-2017,6th,Mathematics,Below Average Growth,,35.9
+2016-2017,6th,Mathematics,Below Average Growth,Female,31.1
+2016-2017,6th,Mathematics,Below Average Growth,Male,34.6
+2016-2017,7th,ELA,Above Average Growth,,26.9
+2016-2017,7th,ELA,Above Average Growth,Female,29.0
+2016-2017,7th,ELA,Above Average Growth,Male,39.6
+2016-2017,7th,ELA,Average Growth,,39.5
+2016-2017,7th,ELA,Average Growth,Female,39.4
+2016-2017,7th,ELA,Average Growth,Male,24.8
+2016-2017,7th,ELA,Below Average Growth,,33.6
+2016-2017,7th,ELA,Below Average Growth,Female,31.5
+2016-2017,7th,ELA,Below Average Growth,Male,35.6
+2016-2017,7th,Mathematics,Above Average Growth,,25.1
+2016-2017,7th,Mathematics,Above Average Growth,Female,27.3
+2016-2017,7th,Mathematics,Above Average Growth,Male,23.0
+2016-2017,7th,Mathematics,Average Growth,,39.0
+2016-2017,7th,Mathematics,Average Growth,Female,38.8
+2016-2017,7th,Mathematics,Average Growth,Male,39.1
+2016-2017,7th,Mathematics,Below Average Growth,,35.9
+2016-2017,7th,Mathematics,Below Average Growth,Female,40.3
+2016-2017,7th,Mathematics,Below Average Growth,Male,37.8
+2016-2017,8th,ELA,Above Average Growth,,27.2
+2016-2017,8th,ELA,Above Average Growth,Female,30.6
+2016-2017,8th,ELA,Above Average Growth,Male,23.9
+2016-2017,8th,ELA,Average Growth,,39.0
+2016-2017,8th,ELA,Average Growth,Female,38.1
+2016-2017,8th,ELA,Average Growth,Male,39.9
+2016-2017,8th,ELA,Below Average Growth,,33.8
+2016-2017,8th,ELA,Below Average Growth,Female,31.3
+2016-2017,8th,ELA,Below Average Growth,Male,36.2
+2016-2017,8th,Mathematics,Above Average Growth,,25.5
+2016-2017,8th,Mathematics,Above Average Growth,Female,27.0
+2016-2017,8th,Mathematics,Above Average Growth,Male,24.1
+2016-2017,8th,Mathematics,Average Growth,,40.5
+2016-2017,8th,Mathematics,Average Growth,Female,40.3
+2016-2017,8th,Mathematics,Average Growth,Male,40.7
+2016-2017,8th,Mathematics,Below Average Growth,,33.9
+2016-2017,8th,Mathematics,Below Average Growth,Female,32.7
+2016-2017,8th,Mathematics,Below Average Growth,Male,35.2
+2016-2017,11th,ELA,Above Average Growth,,15.9
+2016-2017,11th,ELA,Above Average Growth,Female,16.0
+2016-2017,11th,ELA,Above Average Growth,Male,15.7
+2016-2017,11th,ELA,Average Growth,,38.5
+2016-2017,11th,ELA,Average Growth,Female,40.0
+2016-2017,11th,ELA,Average Growth,Male,36.5
+2016-2017,11th,ELA,Below Average Growth,,45.6
+2016-2017,11th,ELA,Below Average Growth,Female,43.9
+2016-2017,11th,ELA,Below Average Growth,Male,47.7
+2016-2017,11th,Mathematics,Above Average Growth,,14.4
+2016-2017,11th,Mathematics,Above Average Growth,Female,14.0
+2016-2017,11th,Mathematics,Above Average Growth,Male,14.9
+2016-2017,11th,Mathematics,Average Growth,,39.0
+2016-2017,11th,Mathematics,Average Growth,Female,40.2
+2016-2017,11th,Mathematics,Average Growth,Male,37.6
+2016-2017,11th,Mathematics,Below Average Growth,,46.5
+2016-2017,11th,Mathematics,Below Average Growth,Female,45.7
+2016-2017,11th,Mathematics,Below Average Growth,Male,47.5
+2017-2018,4th,ELA,Above Average Growth,,16.7
+2017-2018,4th,ELA,Above Average Growth,Female,17.5
+2017-2018,4th,ELA,Above Average Growth,Male,15.9
+2017-2018,4th,ELA,Average Growth,,37.8
+2017-2018,4th,ELA,Average Growth,Female,39.5
+2017-2018,4th,ELA,Average Growth,Male,36.0
+2017-2018,4th,ELA,Below Average Growth,,45.5
+2017-2018,4th,ELA,Below Average Growth,Female,43.0
+2017-2018,4th,ELA,Below Average Growth,Male,48.0
+2017-2018,4th,Mathematics,Above Average Growth,,15.6
+2017-2018,4th,Mathematics,Above Average Growth,Female,15.5
+2017-2018,4th,Mathematics,Above Average Growth,Male,15.7
+2017-2018,4th,Mathematics,Average Growth,,35.5
+2017-2018,4th,Mathematics,Average Growth,Female,37.4
+2017-2018,4th,Mathematics,Average Growth,Male,33.6
+2017-2018,4th,Mathematics,Below Average Growth,,48.9
+2017-2018,4th,Mathematics,Below Average Growth,Female,47.1
+2017-2018,4th,Mathematics,Below Average Growth,Male,50.7
+2017-2018,5th,ELA,Above Average Growth,,23.8
+2017-2018,5th,ELA,Above Average Growth,Female,26.1
+2017-2018,5th,ELA,Above Average Growth,Male,21.5
+2017-2018,5th,ELA,Average Growth,,40.4
+2017-2018,5th,ELA,Average Growth,Female,40.7
+2017-2018,5th,ELA,Average Growth,Male,40.1
+2017-2018,5th,ELA,Below Average Growth,,35.8
+2017-2018,5th,ELA,Below Average Growth,Female,33.1
+2017-2018,5th,ELA,Below Average Growth,Male,38.4
+2017-2018,5th,Mathematics,Above Average Growth,,19.7
+2017-2018,5th,Mathematics,Above Average Growth,Female,20.7
+2017-2018,5th,Mathematics,Above Average Growth,Male,18.6
+2017-2018,5th,Mathematics,Average Growth,,37.7
+2017-2018,5th,Mathematics,Average Growth,Female,38.9
+2017-2018,5th,Mathematics,Average Growth,Male,36.6
+2017-2018,5th,Mathematics,Below Average Growth,,42.6
+2017-2018,5th,Mathematics,Below Average Growth,Female,40.4
+2017-2018,5th,Mathematics,Below Average Growth,Male,44.8
+2017-2018,6th,ELA,Above Average Growth,,27.3
+2017-2018,6th,ELA,Above Average Growth,Female,30.6
+2017-2018,6th,ELA,Above Average Growth,Male,24.1
+2017-2018,6th,ELA,Average Growth,,40.0
+2017-2018,6th,ELA,Average Growth,Female,39.8
+2017-2018,6th,ELA,Average Growth,Male,40.3
+2017-2018,6th,ELA,Below Average Growth,,32.6
+2017-2018,6th,ELA,Below Average Growth,Female,29.6
+2017-2018,6th,ELA,Below Average Growth,Male,35.6
+2017-2018,6th,Mathematics,Above Average Growth,,29.1
+2017-2018,6th,Mathematics,Above Average Growth,Female,29.8
+2017-2018,6th,Mathematics,Above Average Growth,Male,23.4
+2017-2018,6th,Mathematics,Average Growth,,38.8
+2017-2018,6th,Mathematics,Average Growth,Female,40.0
+2017-2018,6th,Mathematics,Average Growth,Male,37.6
+2017-2018,6th,Mathematics,Below Average Growth,,32.1
+2017-2018,6th,Mathematics,Below Average Growth,Female,30.2
+2017-2018,6th,Mathematics,Below Average Growth,Male,34.0
+2017-2018,7th,ELA,Above Average Growth,,29.2
+2017-2018,7th,ELA,Above Average Growth,Female,31.6
+2017-2018,7th,ELA,Above Average Growth,Male,26.9
+2017-2018,7th,ELA,Average Growth,,40.8
+2017-2018,7th,ELA,Average Growth,Female,41.4
+2017-2018,7th,ELA,Average Growth,Male,10.3
+2017-2018,7th,ELA,Below Average Growth,,30.0
+2017-2018,7th,ELA,Below Average Growth,Female,27.0
+2017-2018,7th,ELA,Below Average Growth,Male,32.8
+2017-2018,7th,Mathematics,Above Average Growth,,29.6
+2017-2018,7th,Mathematics,Above Average Growth,Female,30.7
+2017-2018,7th,Mathematics,Above Average Growth,Male,28.6
+2017-2018,7th,Mathematics,Average Growth,,38.5
+2017-2018,7th,Mathematics,Average Growth,Female,39.2
+2017-2018,7th,Mathematics,Average Growth,Male,37.7
+2017-2018,7th,Mathematics,Below Average Growth,,31.9
+2017-2018,7th,Mathematics,Below Average Growth,Female,30.1
+2017-2018,7th,Mathematics,Below Average Growth,Male,33.6
+2017-2018,8th,ELA,Above Average Growth,,30.8
+2017-2018,8th,ELA,Above Average Growth,Female,32.4
+2017-2018,8th,ELA,Above Average Growth,Male,29.3
+2017-2018,8th,ELA,Average Growth,,39.6
+2017-2018,8th,ELA,Average Growth,Female,39.8
+2017-2018,8th,ELA,Average Growth,Male,39.4
+2017-2018,8th,ELA,Below Average Growth,,29.5
+2017-2018,8th,ELA,Below Average Growth,Female,27.7
+2017-2018,8th,ELA,Below Average Growth,Male,31.3
+2017-2018,8th,Mathematics,Above Average Growth,,28.9
+2017-2018,8th,Mathematics,Above Average Growth,Female,29.9
+2017-2018,8th,Mathematics,Above Average Growth,Male,28.0
+2017-2018,8th,Mathematics,Average Growth,,38.6
+2017-2018,8th,Mathematics,Average Growth,Female,38.4
+2017-2018,8th,Mathematics,Average Growth,Male,38.8
+2017-2018,8th,Mathematics,Below Average Growth,,32.5
+2017-2018,8th,Mathematics,Below Average Growth,Female,31.7
+2017-2018,8th,Mathematics,Below Average Growth,Male,33.2
+2017-2018,11th,ELA,Above Average Growth,,18.0
+2017-2018,11th,ELA,Above Average Growth,Female,16.4
+2017-2018,11th,ELA,Above Average Growth,Male,20.0
+2017-2018,11th,ELA,Average Growth,,39.4
+2017-2018,11th,ELA,Average Growth,Female,40.8
+2017-2018,11th,ELA,Average Growth,Male,37.6
+2017-2018,11th,ELA,Below Average Growth,,42.6
+2017-2018,11th,ELA,Below Average Growth,Female,42.8
+2017-2018,11th,ELA,Below Average Growth,Male,42.4
+2017-2018,11th,Mathematics,Above Average Growth,,19.6
+2017-2018,11th,Mathematics,Above Average Growth,Female,19.6
+2017-2018,11th,Mathematics,Above Average Growth,Male,19.6
+2017-2018,11th,Mathematics,Average Growth,,36.9
+2017-2018,11th,Mathematics,Average Growth,Female,36.5
+2017-2018,11th,Mathematics,Average Growth,Male,37.3
+2017-2018,11th,Mathematics,Below Average Growth,,43.5
+2017-2018,11th,Mathematics,Below Average Growth,Female,43.9
+2017-2018,11th,Mathematics,Below Average Growth,Male,43.1
+2018-2019,4th,ELA,Above Average Growth,,19.5
+2018-2019,4th,ELA,Above Average Growth,Female,20.9
+2018-2019,4th,ELA,Above Average Growth,Male,18.1
+2018-2019,4th,ELA,Average Growth,,35.4
+2018-2019,4th,ELA,Average Growth,Female,36.1
+2018-2019,4th,ELA,Average Growth,Male,34.6
+2018-2019,4th,ELA,Below Average Growth,,45.2
+2018-2019,4th,ELA,Below Average Growth,Female,43.0
+2018-2019,4th,ELA,Below Average Growth,Male,47.3
+2018-2019,4th,Mathematics,Above Average Growth,,22.7
+2018-2019,4th,Mathematics,Above Average Growth,Female,23.1
+2018-2019,4th,Mathematics,Above Average Growth,Male,22.2
+2018-2019,4th,Mathematics,Average Growth,,36.0
+2018-2019,4th,Mathematics,Average Growth,Female,37.3
+2018-2019,4th,Mathematics,Average Growth,Male,34.7
+2018-2019,4th,Mathematics,Below Average Growth,,41.3
+2018-2019,4th,Mathematics,Below Average Growth,Female,39.6
+2018-2019,4th,Mathematics,Below Average Growth,Male,43.1
+2018-2019,5th,ELA,Above Average Growth,,23.8
+2018-2019,5th,ELA,Above Average Growth,Female,26.7
+2018-2019,5th,ELA,Above Average Growth,Male,20.9
+2018-2019,5th,ELA,Average Growth,,38.8
+2018-2019,5th,ELA,Average Growth,Female,39.3
+2018-2019,5th,ELA,Average Growth,Male,40.8
+2018-2019,5th,ELA,Below Average Growth,,37.3
+2018-2019,5th,ELA,Below Average Growth,Female,34.0
+2018-2019,5th,ELA,Below Average Growth,Male,40.8
+2018-2019,5th,Mathematics,Above Average Growth,,26.1
+2018-2019,5th,Mathematics,Above Average Growth,Female,25.9
+2018-2019,5th,Mathematics,Above Average Growth,Male,26.2
+2018-2019,5th,Mathematics,Average Growth,,37.0
+2018-2019,5th,Mathematics,Average Growth,Female,38.4
+2018-2019,5th,Mathematics,Average Growth,Male,35.5
+2018-2019,5th,Mathematics,Below Average Growth,,36.9
+2018-2019,5th,Mathematics,Below Average Growth,Female,35.6
+2018-2019,5th,Mathematics,Below Average Growth,Male,38.2
+2018-2019,6th,ELA,Above Average Growth,,26.8
+2018-2019,6th,ELA,Above Average Growth,Female,27.7
+2018-2019,6th,ELA,Above Average Growth,Male,25.8
+2018-2019,6th,ELA,Average Growth,,38.6
+2018-2019,6th,ELA,Average Growth,Female,39.8
+2018-2019,6th,ELA,Average Growth,Male,37.6
+2018-2019,6th,ELA,Below Average Growth,,34.6
+2018-2019,6th,ELA,Below Average Growth,Female,32.5
+2018-2019,6th,ELA,Below Average Growth,Male,36.6
+2018-2019,6th,Mathematics,Above Average Growth,,30.0
+2018-2019,6th,Mathematics,Above Average Growth,Female,29.3
+2018-2019,6th,Mathematics,Above Average Growth,Male,30.6
+2018-2019,6th,Mathematics,Average Growth,,37.5
+2018-2019,6th,Mathematics,Average Growth,Female,39.2
+2018-2019,6th,Mathematics,Average Growth,Male,36.0
+2018-2019,6th,Mathematics,Below Average Growth,,32.5
+2018-2019,6th,Mathematics,Below Average Growth,Female,31.5
+2018-2019,6th,Mathematics,Below Average Growth,Male,33.4
+2018-2019,7th,ELA,Above Average Growth,,29.2
+2018-2019,7th,ELA,Above Average Growth,Female,31.8
+2018-2019,7th,ELA,Above Average Growth,Male,26.6
+2018-2019,7th,ELA,Average Growth,,38.6
+2018-2019,7th,ELA,Average Growth,Female,39.4
+2018-2019,7th,ELA,Average Growth,Male,37.9
+2018-2019,7th,ELA,Below Average Growth,,32.2
+2018-2019,7th,ELA,Below Average Growth,Female,28.8
+2018-2019,7th,ELA,Below Average Growth,Male,35.5
+2018-2019,7th,Mathematics,Above Average Growth,,36.0
+2018-2019,7th,Mathematics,Above Average Growth,Female,39.0
+2018-2019,7th,Mathematics,Above Average Growth,Male,33.2
+2018-2019,7th,Mathematics,Average Growth,,36.2
+2018-2019,7th,Mathematics,Average Growth,Female,37.8
+2018-2019,7th,Mathematics,Average Growth,Male,36.6
+2018-2019,7th,Mathematics,Below Average Growth,,27.7
+2018-2019,7th,Mathematics,Below Average Growth,Female,25.2
+2018-2019,7th,Mathematics,Below Average Growth,Male,30.1
+2018-2019,8th,ELA,Above Average Growth,,24.0
+2018-2019,8th,ELA,Above Average Growth,Female,26.1
+2018-2019,8th,ELA,Above Average Growth,Male,21.9
+2018-2019,8th,ELA,Average Growth,,36.2
+2018-2019,8th,ELA,Average Growth,Female,35.4
+2018-2019,8th,ELA,Average Growth,Male,36.8
+2018-2019,8th,ELA,Below Average Growth,,39.9
+2018-2019,8th,ELA,Below Average Growth,Female,38.5
+2018-2019,8th,ELA,Below Average Growth,Male,41.2
+2018-2019,8th,Mathematics,Above Average Growth,,25.3
+2018-2019,8th,Mathematics,Above Average Growth,Female,24.2
+2018-2019,8th,Mathematics,Above Average Growth,Male,26.3
+2018-2019,8th,Mathematics,Average Growth,,39.2
+2018-2019,8th,Mathematics,Average Growth,Female,41.0
+2018-2019,8th,Mathematics,Average Growth,Male,37.5
+2018-2019,8th,Mathematics,Below Average Growth,,35.5
+2018-2019,8th,Mathematics,Below Average Growth,Female,34.9
+2018-2019,8th,Mathematics,Below Average Growth,Male,36.2
+2018-2019,11th,ELA,Above Average Growth,,20.0
+2018-2019,11th,ELA,Above Average Growth,Female,18.8
+2018-2019,11th,ELA,Above Average Growth,Male,21.4
+2018-2019,11th,ELA,Average Growth,,41.6
+2018-2019,11th,ELA,Average Growth,Female,31.9
+2018-2019,11th,ELA,Average Growth,Male,38.7
+2018-2019,11th,ELA,Below Average Growth,,38.4
+2018-2019,11th,ELA,Below Average Growth,Female,32.9
+2018-2019,11th,ELA,Below Average Growth,Male,39.9
+2018-2019,11th,Mathematics,Above Average Growth,,18.7
+2018-2019,11th,Mathematics,Above Average Growth,Female,17.9
+2018-2019,11th,Mathematics,Above Average Growth,Male,19.6
+2018-2019,11th,Mathematics,Average Growth,,38.3
+2018-2019,11th,Mathematics,Average Growth,Female,38.7
+2018-2019,11th,Mathematics,Average Growth,Male,37.9
+2018-2019,11th,Mathematics,Below Average Growth,,43.0
+2018-2019,11th,Mathematics,Below Average Growth,Female,43.4
+2018-2019,11th,Mathematics,Below Average Growth,Male,42.5
+2020-2021,5th,ELA,Above Average Growth,,8.7
+2020-2021,5th,ELA,Above Average Growth,Female,10.2
+2020-2021,5th,ELA,Above Average Growth,Male,7.3
+2020-2021,5th,ELA,Average Growth,,34.5
+2020-2021,5th,ELA,Average Growth,Female,36.5
+2020-2021,5th,ELA,Average Growth,Male,32.6
+2020-2021,5th,ELA,Below Average Growth,,56.9
+2020-2021,5th,ELA,Below Average Growth,Female,53.3
+2020-2021,5th,ELA,Below Average Growth,Male,60.1
+2020-2021,5th,Mathematics,Above Average Growth,,4.6
+2020-2021,5th,Mathematics,Above Average Growth,Female,4.7
+2020-2021,5th,Mathematics,Above Average Growth,Male,4.6
+2020-2021,5th,Mathematics,Average Growth,,23.5
+2020-2021,5th,Mathematics,Average Growth,Female,25.4
+2020-2021,5th,Mathematics,Average Growth,Male,21.6
+2020-2021,5th,Mathematics,Below Average Growth,,71.9
+2020-2021,5th,Mathematics,Below Average Growth,Female,69.9
+2020-2021,5th,Mathematics,Below Average Growth,Male,73.6
+2020-2021,6th,ELA,Above Average Growth,,15.7
+2020-2021,6th,ELA,Above Average Growth,Female,14.1
+2020-2021,6th,ELA,Above Average Growth,Male,17.4
+2020-2021,6th,ELA,Average Growth,,33.9
+2020-2021,6th,ELA,Average Growth,Female,37.3
+2020-2021,6th,ELA,Average Growth,Male,30.4
+2020-2021,6th,ELA,Below Average Growth,,50.4
+2020-2021,6th,ELA,Below Average Growth,Female,48.6
+2020-2021,6th,ELA,Below Average Growth,Male,52.2
+2020-2021,6th,Mathematics,Above Average Growth,,8.4
+2020-2021,6th,Mathematics,Above Average Growth,Female,8.5
+2020-2021,6th,Mathematics,Above Average Growth,Male,8.2
+2020-2021,6th,Mathematics,Average Growth,,25.5
+2020-2021,6th,Mathematics,Average Growth,Female,27.9
+2020-2021,6th,Mathematics,Average Growth,Male,23.1
+2020-2021,6th,Mathematics,Below Average Growth,,66.2
+2020-2021,6th,Mathematics,Below Average Growth,Female,63.6
+2020-2021,6th,Mathematics,Below Average Growth,Male,68.7
+2020-2021,7th,ELA,Above Average Growth,,23.0
+2020-2021,7th,ELA,Above Average Growth,Female,24.8
+2020-2021,7th,ELA,Above Average Growth,Male,21.1
+2020-2021,7th,ELA,Average Growth,,38.7
+2020-2021,7th,ELA,Average Growth,Female,36.4
+2020-2021,7th,ELA,Average Growth,Male,41.2
+2020-2021,7th,ELA,Below Average Growth,,38.3
+2020-2021,7th,ELA,Below Average Growth,Female,38.8
+2020-2021,7th,ELA,Below Average Growth,Male,37.7
+2020-2021,7th,Mathematics,Above Average Growth,,22.9
+2020-2021,7th,Mathematics,Above Average Growth,Female,21.2
+2020-2021,7th,Mathematics,Above Average Growth,Male,24.8
+2020-2021,7th,Mathematics,Average Growth,,35.9
+2020-2021,7th,Mathematics,Average Growth,Female,42.4
+2020-2021,7th,Mathematics,Average Growth,Male,28.6
+2020-2021,7th,Mathematics,Below Average Growth,,41.3
+2020-2021,7th,Mathematics,Below Average Growth,Female,36.4
+2020-2021,7th,Mathematics,Below Average Growth,Male,46.7
+2020-2021,8th,ELA,Above Average Growth,,23.5
+2020-2021,8th,ELA,Above Average Growth,Female,26.1
+2020-2021,8th,ELA,Above Average Growth,Male,20.4
+2020-2021,8th,ELA,Average Growth,,38.2
+2020-2021,8th,ELA,Average Growth,Female,34.4
+2020-2021,8th,ELA,Average Growth,Male,42.5
+2020-2021,8th,ELA,Below Average Growth,,38.4
+2020-2021,8th,ELA,Below Average Growth,Female,39.4
+2020-2021,8th,ELA,Below Average Growth,Male,37.1
+2020-2021,8th,Mathematics,Above Average Growth,,27.2
+2020-2021,8th,Mathematics,Above Average Growth,Female,28.7
+2020-2021,8th,Mathematics,Above Average Growth,Male,25.5
+2020-2021,8th,Mathematics,Average Growth,,31.2
+2020-2021,8th,Mathematics,Average Growth,Female,27.9
+2020-2021,8th,Mathematics,Average Growth,Male,35.0
+2020-2021,8th,Mathematics,Below Average Growth,,41.6
+2020-2021,8th,Mathematics,Below Average Growth,Female,33.7
+2020-2021,8th,Mathematics,Below Average Growth,Male,39.5
+2020-2021,11th,ELA,Above Average Growth,,25.2
+2020-2021,11th,ELA,Above Average Growth,Female,2.9
+2020-2021,11th,ELA,Above Average Growth,Male,28.9
+2020-2021,11th,ELA,Average Growth,,40.1
+2020-2021,11th,ELA,Average Growth,Female,39.5
+2020-2021,11th,ELA,Average Growth,Male,41.1
+2020-2021,11th,ELA,Below Average Growth,,34.6
+2020-2021,11th,ELA,Below Average Growth,Female,37.6
+2020-2021,11th,ELA,Below Average Growth,Male,30.0
+2020-2021,11th,Mathematics,Above Average Growth,,12.8
+2020-2021,11th,Mathematics,Above Average Growth,Female,10.4
+2020-2021,11th,Mathematics,Above Average Growth,Male,16.7
+2020-2021,11th,Mathematics,Average Growth,,35.2
+2020-2021,11th,Mathematics,Average Growth,Female,35.6
+2020-2021,11th,Mathematics,Average Growth,Male,34.4
+2020-2021,11th,Mathematics,Below Average Growth,,52.0
+2020-2021,11th,Mathematics,Below Average Growth,Female,54.0
+2020-2021,11th,Mathematics,Below Average Growth,Male,48.8
+2021-2022,6th,ELA,Above Average Growth,,19.1
+2021-2022,6th,ELA,Above Average Growth,Female,19.9
+2021-2022,6th,ELA,Above Average Growth,Male,18.2
+2021-2022,6th,ELA,Average Growth,,37.0
+2021-2022,6th,ELA,Average Growth,Female,38.6
+2021-2022,6th,ELA,Average Growth,Male,35.3
+2021-2022,6th,ELA,Below Average Growth,,44.0
+2021-2022,6th,ELA,Below Average Growth,Female,41.5
+2021-2022,6th,ELA,Below Average Growth,Male,46.4
+2021-2022,6th,Mathematics,Above Average Growth,,7.4
+2021-2022,6th,Mathematics,Above Average Growth,Female,7.4
+2021-2022,6th,Mathematics,Above Average Growth,Male,7.3
+2021-2022,6th,Mathematics,Average Growth,,30.0
+2021-2022,6th,Mathematics,Average Growth,Female,29.0
+2021-2022,6th,Mathematics,Average Growth,Male,31.0
+2021-2022,6th,Mathematics,Below Average Growth,,62.6
+2021-2022,6th,Mathematics,Below Average Growth,Female,63.6
+2021-2022,6th,Mathematics,Below Average Growth,Male,61.7
+2021-2022,7th,ELA,Above Average Growth,,26.9
+2021-2022,7th,ELA,Above Average Growth,Female,32.2
+2021-2022,7th,ELA,Above Average Growth,Male,21.8
+2021-2022,7th,ELA,Average Growth,,36.0
+2021-2022,7th,ELA,Average Growth,Female,37.3
+2021-2022,7th,ELA,Average Growth,Male,34.8
+2021-2022,7th,ELA,Below Average Growth,,37.1
+2021-2022,7th,ELA,Below Average Growth,Female,30.5
+2021-2022,7th,ELA,Below Average Growth,Male,43.5
+2021-2022,7th,Mathematics,Above Average Growth,,20.6
+2021-2022,7th,Mathematics,Above Average Growth,Female,21.1
+2021-2022,7th,Mathematics,Above Average Growth,Male,20.1
+2021-2022,7th,Mathematics,Average Growth,,39.3
+2021-2022,7th,Mathematics,Average Growth,Female,40.4
+2021-2022,7th,Mathematics,Average Growth,Male,38.2
+2021-2022,7th,Mathematics,Below Average Growth,,40.1
+2021-2022,7th,Mathematics,Below Average Growth,Female,38.5
+2021-2022,7th,Mathematics,Below Average Growth,Male,41.7
+2021-2022,8th,ELA,Above Average Growth,,23.3
+2021-2022,8th,ELA,Above Average Growth,Female,25.2
+2021-2022,8th,ELA,Above Average Growth,Male,21.4
+2021-2022,8th,ELA,Average Growth,,35.1
+2021-2022,8th,ELA,Average Growth,Female,35.4
+2021-2022,8th,ELA,Average Growth,Male,34.7
+2021-2022,8th,ELA,Below Average Growth,,41.6
+2021-2022,8th,ELA,Below Average Growth,Female,39.4
+2021-2022,8th,ELA,Below Average Growth,Male,43.9
+2021-2022,8th,Mathematics,Above Average Growth,,29.6
+2021-2022,8th,Mathematics,Above Average Growth,Female,30.9
+2021-2022,8th,Mathematics,Above Average Growth,Male,28.2
+2021-2022,8th,Mathematics,Average Growth,,30.6
+2021-2022,8th,Mathematics,Average Growth,Female,30.4
+2021-2022,8th,Mathematics,Average Growth,Male,30.7
+2021-2022,8th,Mathematics,Below Average Growth,,39.8
+2021-2022,8th,Mathematics,Below Average Growth,Female,38.6
+2021-2022,8th,Mathematics,Below Average Growth,Male,41.1
+2021-2022,11th,ELA,Above Average Growth,,15.9
+2021-2022,11th,ELA,Above Average Growth,Female,13.7
+2021-2022,11th,ELA,Above Average Growth,Male,18.6
+2021-2022,11th,ELA,Average Growth,,39.1
+2021-2022,11th,ELA,Average Growth,Female,39.7
+2021-2022,11th,ELA,Average Growth,Male,38.3
+2021-2022,11th,ELA,Below Average Growth,,45.0
+2021-2022,11th,ELA,Below Average Growth,Female,46.6
+2021-2022,11th,ELA,Below Average Growth,Male,43.1
+2021-2022,11th,Mathematics,Above Average Growth,,10.7
+2021-2022,11th,Mathematics,Above Average Growth,Female,10.2
+2021-2022,11th,Mathematics,Above Average Growth,Male,11.2
+2021-2022,11th,Mathematics,Average Growth,,35.0
+2021-2022,11th,Mathematics,Average Growth,Female,36.5
+2021-2022,11th,Mathematics,Average Growth,Male,33.3
+2021-2022,11th,Mathematics,Below Average Growth,,54.3
+2021-2022,11th,Mathematics,Below Average Growth,Female,53.3
+2021-2022,11th,Mathematics,Below Average Growth,Male,55.5
+2022-2023,4th,ELA,Above Average Growth,,25.8
+2022-2023,4th,ELA,Above Average Growth,Female,28.2
+2022-2023,4th,ELA,Above Average Growth,Male,23.5
+2022-2023,4th,ELA,Average Growth,,37.0
+2022-2023,4th,ELA,Average Growth,Female,36.7
+2022-2023,4th,ELA,Average Growth,Male,37.4
+2022-2023,4th,ELA,Below Average Growth,,37.1
+2022-2023,4th,ELA,Below Average Growth,Female,35.1
+2022-2023,4th,ELA,Below Average Growth,Male,39.1
+2022-2023,4th,Mathematics,Above Average Growth,,26.7
+2022-2023,4th,Mathematics,Above Average Growth,Female,26.7
+2022-2023,4th,Mathematics,Above Average Growth,Male,26.8
+2022-2023,4th,Mathematics,Average Growth,,36.1
+2022-2023,4th,Mathematics,Average Growth,Female,36.9
+2022-2023,4th,Mathematics,Average Growth,Male,35.3
+2022-2023,4th,Mathematics,Below Average Growth,,37.2
+2022-2023,4th,Mathematics,Below Average Growth,Female,36.5
+2022-2023,4th,Mathematics,Below Average Growth,Male,37.9
+2022-2023,5th,ELA,Above Average Growth,,23.5
+2022-2023,5th,ELA,Above Average Growth,Female,24.4
+2022-2023,5th,ELA,Above Average Growth,Male,22.7
+2022-2023,5th,ELA,Average Growth,,36.9
+2022-2023,5th,ELA,Average Growth,Female,37.7
+2022-2023,5th,ELA,Average Growth,Male,36.1
+2022-2023,5th,ELA,Below Average Growth,,39.6
+2022-2023,5th,ELA,Below Average Growth,Female,37.9
+2022-2023,5th,ELA,Below Average Growth,Male,41.2
+2022-2023,5th,Mathematics,Above Average Growth,,28.2
+2022-2023,5th,Mathematics,Above Average Growth,Female,28.0
+2022-2023,5th,Mathematics,Above Average Growth,Male,28.4
+2022-2023,5th,Mathematics,Average Growth,,39.0
+2022-2023,5th,Mathematics,Average Growth,Female,39.5
+2022-2023,5th,Mathematics,Average Growth,Male,38.5
+2022-2023,5th,Mathematics,Below Average Growth,,32.8
+2022-2023,5th,Mathematics,Below Average Growth,Female,32.5
+2022-2023,5th,Mathematics,Below Average Growth,Male,33.1
+2022-2023,6th,ELA,Above Average Growth,,28.2
+2022-2023,6th,ELA,Above Average Growth,Female,30.1
+2022-2023,6th,ELA,Above Average Growth,Male,26.4
+2022-2023,6th,ELA,Average Growth,,39.2
+2022-2023,6th,ELA,Average Growth,Female,39.6
+2022-2023,6th,ELA,Average Growth,Male,38.8
+2022-2023,6th,ELA,Below Average Growth,,32.6
+2022-2023,6th,ELA,Below Average Growth,Female,30.3
+2022-2023,6th,ELA,Below Average Growth,Male,34.8
+2022-2023,6th,Mathematics,Above Average Growth,,31.8
+2022-2023,6th,Mathematics,Above Average Growth,Female,29.4
+2022-2023,6th,Mathematics,Above Average Growth,Male,34.1
+2022-2023,6th,Mathematics,Average Growth,,36.1
+2022-2023,6th,Mathematics,Average Growth,Female,37.4
+2022-2023,6th,Mathematics,Average Growth,Male,34.9
+2022-2023,6th,Mathematics,Below Average Growth,,32.1
+2022-2023,6th,Mathematics,Below Average Growth,Female,32.2
+2022-2023,6th,Mathematics,Below Average Growth,Male,31.1
+2022-2023,7th,ELA,Above Average Growth,,30.9
+2022-2023,7th,ELA,Above Average Growth,Female,32.6
+2022-2023,7th,ELA,Above Average Growth,Male,29.2
+2022-2023,7th,ELA,Average Growth,,37.3
+2022-2023,7th,ELA,Average Growth,Female,37.6
+2022-2023,7th,ELA,Average Growth,Male,37.0
+2022-2023,7th,ELA,Below Average Growth,,31.8
+2022-2023,7th,ELA,Below Average Growth,Female,29.7
+2022-2023,7th,ELA,Below Average Growth,Male,33.8
+2022-2023,7th,Mathematics,Above Average Growth,,36.1
+2022-2023,7th,Mathematics,Above Average Growth,Female,35.3
+2022-2023,7th,Mathematics,Above Average Growth,Male,36.9
+2022-2023,7th,Mathematics,Average Growth,,36.4
+2022-2023,7th,Mathematics,Average Growth,Female,37.8
+2022-2023,7th,Mathematics,Average Growth,Male,34.9
+2022-2023,7th,Mathematics,Below Average Growth,,27.5
+2022-2023,7th,Mathematics,Below Average Growth,Female,26.9
+2022-2023,7th,Mathematics,Below Average Growth,Male,28.2
+2022-2023,8th,ELA,Above Average Growth,,14.3
+2022-2023,8th,ELA,Above Average Growth,Female,13.4
+2022-2023,8th,ELA,Above Average Growth,Male,14.4
+2022-2023,8th,ELA,Average Growth,,36.6
+2022-2023,8th,ELA,Average Growth,Female,39.5
+2022-2023,8th,ELA,Average Growth,Male,33.8
+2022-2023,8th,ELA,Below Average Growth,,49.0
+2022-2023,8th,ELA,Below Average Growth,Female,46.2
+2022-2023,8th,ELA,Below Average Growth,Male,51.8
+2022-2023,8th,Mathematics,Above Average Growth,,21.5
+2022-2023,8th,Mathematics,Above Average Growth,Female,22.2
+2022-2023,8th,Mathematics,Above Average Growth,Male,20.7
+2022-2023,8th,Mathematics,Average Growth,,38.1
+2022-2023,8th,Mathematics,Average Growth,Female,38.8
+2022-2023,8th,Mathematics,Average Growth,Male,37.4
+2022-2023,8th,Mathematics,Below Average Growth,,40.4
+2022-2023,8th,Mathematics,Below Average Growth,Female,38.9
+2022-2023,8th,Mathematics,Below Average Growth,Male,41.9
+2022-2023,11th,ELA,Above Average Growth,,28.0
+2022-2023,11th,ELA,Above Average Growth,Female,29.2
+2022-2023,11th,ELA,Above Average Growth,Male,26.6
+2022-2023,11th,ELA,Average Growth,,39.1
+2022-2023,11th,ELA,Average Growth,Female,40.6
+2022-2023,11th,ELA,Average Growth,Male,37.2
+2022-2023,11th,ELA,Below Average Growth,,32.9
+2022-2023,11th,ELA,Below Average Growth,Female,30.3
+2022-2023,11th,ELA,Below Average Growth,Male,36.2
+2022-2023,11th,Mathematics,Above Average Growth,,23.9
+2022-2023,11th,Mathematics,Above Average Growth,Female,23.6
+2022-2023,11th,Mathematics,Above Average Growth,Male,24.3
+2022-2023,11th,Mathematics,Average Growth,,35.5
+2022-2023,11th,Mathematics,Average Growth,Female,36.4
+2022-2023,11th,Mathematics,Average Growth,Male,34.0
+2022-2023,11th,Mathematics,Below Average Growth,,40.8
+2022-2023,11th,Mathematics,Below Average Growth,Female,40.0
+2022-2023,11th,Mathematics,Below Average Growth,Male,41.7
+2023-2024,4th,ELA,Above Average Growth,,18.9
+2023-2024,4th,ELA,Above Average Growth,Female,21.0
+2023-2024,4th,ELA,Above Average Growth,Male,16.8
+2023-2024 ,4th,ELA,Average Growth,,37.3
+2023-2024,4th,ELA,Average Growth,Female,38.3
+2023-2024,4th,ELA,Average Growth,Male,36.3
+2023-2024,4th,ELA,Below Average Growth,,43.8
+2023-2024 ,4th,ELA,Below Average Growth,Female,40.7
+2023-2024,4th,ELA,Below Average Growth,Male,46.9
+2023-2024,4th,Mathematics,Above Average Growth,,20.6
+2023-2024,4th,Mathematics,Above Average Growth,Female,24.4
+2023-2024 ,4th,Mathematics,Above Average Growth,Male,19.7
+2023-2024,4th,Mathematics,Average Growth,,35.9
+2023-2024,4th,Mathematics,Average Growth,Female,37.3
+2023-2024,4th,Mathematics,Average Growth,Male,34.6
+2023-2024 ,4th,Mathematics,Below Average Growth,,43.5
+2023-2024,4th,Mathematics,Below Average Growth,Female,41.3
+2023-2024,4th,Mathematics,Below Average Growth,Male,45.7
+2023-2024,5th,ELA,Above Average Growth,,27.9
+2023-2024 ,5th,ELA,Above Average Growth,Female,29.0
+2023-2024,5th,ELA,Above Average Growth,Male,26.9
+2023-2024,5th,ELA,Average Growth,,38.1
+2023-2024,5th,ELA,Average Growth,Female,40.0
+2023-2024 ,5th,ELA,Average Growth,Male,36.2
+2023-2024,5th,ELA,Below Average Growth,,34.0
+2023-2024,5th,ELA,Below Average Growth,Female,31.1
+2023-2024,5th,ELA,Below Average Growth,Male,36.9
+2023-2024 ,5th,Mathematics,Above Average Growth,,29.0
+2023-2024,5th,Mathematics,Above Average Growth,Female,30.3
+2023-2024,5th,Mathematics,Above Average Growth,Male,27.7
+2023-2024,5th,Mathematics,Average Growth,,40.2
+2023-2024 ,5th,Mathematics,Average Growth,Female,38.8
+2023-2024,5th,Mathematics,Average Growth,Male,41.6
+2023-2024,5th,Mathematics,Below Average Growth,,30.8
+2023-2024,5th,Mathematics,Below Average Growth,Female,30.8
+2023-2024 ,5th,Mathematics,Below Average Growth,Male,30.7
+2023-2024,6th,ELA,Above Average Growth,,34.4
+2023-2024,6th,ELA,Above Average Growth,Female,37.2
+2023-2024,6th,ELA,Above Average Growth,Male,31.8
+2023-2024 ,6th,ELA,Average Growth,,36.1
+2023-2024,6th,ELA,Average Growth,Female,36.5
+2023-2024,6th,ELA,Average Growth,Male,35.8
+2023-2024,6th,ELA,Below Average Growth,,29.5
+2023-2024 ,6th,ELA,Below Average Growth,Female,26.3
+2023-2024,6th,ELA,Below Average Growth,Male,32.4
+2023-2024,6th,Mathematics,Above Average Growth,,35.2
+2023-2024,6th,Mathematics,Above Average Growth,Female,35.3
+2023-2024 ,6th,Mathematics,Above Average Growth,Male,35.1
+2023-2024,6th,Mathematics,Average Growth,,38.5
+2023-2024,6th,Mathematics,Average Growth,Female,37.5
+2023-2024,6th,Mathematics,Average Growth,Male,39.4
+2023-2024 ,6th,Mathematics,Below Average Growth,,26.3
+2023-2024,6th,Mathematics,Below Average Growth,Female,27.2
+2023-2024,6th,Mathematics,Below Average Growth,Male,25.5
+2023-2024,7th,ELA,Above Average Growth,,35.2
+2023-2024 ,7th,ELA,Above Average Growth,Female,37.1
+2023-2024,7th,ELA,Above Average Growth,Male,33.4
+2023-2024,7th,ELA,Average Growth,,37.1
+2023-2024,7th,ELA,Average Growth,Female,38.0
+2023-2024 ,7th,ELA,Average Growth,Male,36.1
+2023-2024,7th,ELA,Below Average Growth,,27.7
+2023-2024,7th,ELA,Below Average Growth,Female,24.8
+2023-2024,7th,ELA,Below Average Growth,Male,30.5
+2023-2024 ,7th,Mathematics,Above Average Growth,,37.3
+2023-2024,7th,Mathematics,Above Average Growth,Female,37.7
+2023-2024,7th,Mathematics,Above Average Growth,Male,37.0
+2023-2024,7th,Mathematics,Average Growth,,37.2
+2023-2024 ,7th,Mathematics,Average Growth,Female,37.4
+2023-2024,7th,Mathematics,Average Growth,Male,37.0
+2023-2024,7th,Mathematics,Below Average Growth,,25.4
+2023-2024,7th,Mathematics,Below Average Growth,Female,24.9
+2023-2024 ,7th,Mathematics,Below Average Growth,Male,26.0
+2023-2024,8th,ELA,Above Average Growth,,18.0
+2023-2024,8th,ELA,Above Average Growth,Female,17.8
+2023-2024,8th,ELA,Above Average Growth,Male,18.2
+2023-2024 ,8th,ELA,Average Growth,,37.7
+2023-2024,8th,ELA,Average Growth,Female,37.3
+2023-2024,8th,ELA,Average Growth,Male,38.0
+2023-2024,8th,ELA,Below Average Growth,,44.3
+2023-2024 ,8th,ELA,Below Average Growth,Female,44.9
+2023-2024,8th,ELA,Below Average Growth,Male,43.8
+2023-2024,8th,Mathematics,Above Average Growth,,24.2
+2023-2024,8th,Mathematics,Above Average Growth,Female,26.3
+2023-2024 ,8th,Mathematics,Above Average Growth,Male,22.1
+2023-2024,8th,Mathematics,Average Growth,,39.3
+2023-2024,8th,Mathematics,Average Growth,Female,41.0
+2023-2024,8th,Mathematics,Average Growth,Male,37.8
+2023-2024 ,8th,Mathematics,Below Average Growth,,36.5
+2023-2024,8th,Mathematics,Below Average Growth,Female,32.7
+2023-2024,8th,Mathematics,Below Average Growth,Male,40.1
+2023-2024,11th,ELA,Above Average Growth,,26.5
+2023-2024 ,11th,ELA,Above Average Growth,Female,26.1
+2023-2024,11th,ELA,Above Average Growth,Male,27.2
+2023-2024,11th,ELA,Average Growth,,40.0
+2023-2024,11th,ELA,Average Growth,Female,43.7
+2023-2024 ,11th,ELA,Average Growth,Male,24.9
+2023-2024,11th,ELA,Below Average Growth,,33.5
+2023-2024,11th,ELA,Below Average Growth,Female,30.2
+2023-2024,11th,ELA,Below Average Growth,Male,37.9
+2023-2024 ,11th,Mathematics,Above Average Growth,,26.6
+2023-2024,11th,Mathematics,Above Average Growth,Female,29.5
+2023-2024,11th,Mathematics,Above Average Growth,Male,22.6
+2023-2024,11th,Mathematics,Average Growth,,36.7
+2023-2024 ,11th,Mathematics,Average Growth,Female,38.7
+2023-2024,11th,Mathematics,Average Growth,Male,34.1
+2023-2024,11th,Mathematics,Below Average Growth,,36.7
+2023-2024,11th,Mathematics,Below Average Growth,Female,31.8
+2023-2024 ,11th,Mathematics,Below Average Growth,Male,43.4

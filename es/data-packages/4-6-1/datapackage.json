@@ -12,8 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Grade Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "11th",
+                ""
+              ]
+            },
+            "title": "Grade Level"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ELA",
+                "Mathematics",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Growth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above Average Growth",
+                "Average Growth",
+                "Below Average Growth",
+                ""
+              ]
+            },
+            "title": "Growth"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Gender"
           },
           {
             "name": "Value",
