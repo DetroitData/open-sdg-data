@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Deaths per 100,000 live births
+computation_units: Maternal Mortality Ratio
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -7,25 +7,37 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
+data_start_values:
+  - field: Mortality Association Type
+    value: Pregnancy Associated
+    '-field': null
+  - field: Mortality Association Type
+    value: Pregnancy Associated Not Related
+  - field: Mortality Association Type
+    value: Pregnancy Related
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
+expected_disaggregations: []
 footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_target_lines: 
-  - value: 70
+graph_target_lines:
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 70
 graph_title: Maternal Mortality Ratio
-graph_type: bar
+graph_type: line
 data_start_values:
   - field: Mortality Association Type
     value: Pregnancy Associated
 indicator_available: ''
-indicator_name: global_indicators.3-1-1-title
+indicator_name: title
 indicator_number: 3.1.1
 indicator_tabs:
   override: false
@@ -46,12 +58,13 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: MDHHS
+  - organisation: Michigan Maternal Mortality Surveillance (MMMS)
     periodicity: ''
-    earliest_available: ''
+    earliest_available: '2011'
     geographical_coverage: Michigan
-    url: "https://www.michigan.gov/mdhhs/adult-child-serv/childrenfamilies/mmms/category-data/michigan-maternal-mortality-surveillance-mmms-program-data"
-    url_text: Michigan Maternal Mortality Surveillance (MMMS) Program - Data
+    url: >-
+      https://www.michigan.gov/mdhhs/adult-child-serv/childrenfamilies/mmms/category-data/michigan-maternal-mortality-surveillance-mmms-program-data
+    url_text: ''
     release_date: ''
     next_release: ''
     statistical_classification: ''
